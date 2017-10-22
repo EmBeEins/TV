@@ -35,3 +35,5 @@ http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0
 #EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="Deutsche Welle" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/dw%20europe.png",Deutsche Welle
 http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1 tvg-name="Deutscher Bundestag 1" tvg-id="Deutscher Bundestag 1" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/dw%20europe.png",Deutscher Bundestag 1
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
