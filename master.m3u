@@ -1,3 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/das%20erste%20hd.png",Das Erste
+#EXTINF:-1 tvg-name="ARD - Das Erste" tvg-id="ARD" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/das%20erste%20hd.png",Das Erste
 https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/master.m3u8
+#EXTINF:-1 tvg-name="ZDF" tvg-id="ZDF" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/zdf%20hd.png",ZDF
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8?dw=0
+#EXTINF:-1 tvg-name="WDR" tvg-id="WDR" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/wdr%20hd.png",WDR
+http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
+#EXTINF:-1 tvg-name="NDR Hamburg" tvg-id="NDR" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/ndr%20fs%20hh%20hd.png",NDR HH
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 tvg-name="RBB Berlin" tvg-id="RBB" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/rbb%20berlin%20hd.png",RBB Berlin
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+#EXTINF:-1 tvg-name="MDR" tvg-id="MDR" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/mdr%20sachsen%20hd.png",MDR Sachsen
+http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
+#EXTINF:-1 tvg-name="HR" tvg-id="HR" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/hr-fernsehen%20hd.png",HR
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-name="SWR BW" tvg-id="SWR" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/swr%20bw%20hd.png",SWR BW
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
+#EXTINF:-1 tvg-name="BR Sued" tvg-id="BR" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/br%20hd.png",BR
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-name="ARD alpha" tvg-id="ARDalpha" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/ard-alpha.png",ARD alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-name="One" tvg-id="One" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/one%20hd.png",One
+http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF:-1 tvg-name="Tagesschau24" tvg-id="Tagesschau24" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/tagesschau24%20hd.png",Tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Info" tvg-id="ZDF Info" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/zdfinfo%20hd.png",ZDF Info
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?dw=0
+#EXTINF:-1 tvg-name="ZDF neo" tvg-id="ZDF neo" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/zdf_neo%20hd.png",ZDF neo
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?dw=0
+#EXTINF:-1 tvg-name="Phoenix" tvg-id="Phoenix" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/phoenix%20hd.png",Phoenix
+http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?dw=0
+#EXTINF:-1 tvg-name="arte" tvg-id="arte" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/arte%20hd.png",arte
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/3sat%20hd.png",3sat
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0
+#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="Deutsche Welle" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/dw%20europe.png",Deutsche Welle
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
