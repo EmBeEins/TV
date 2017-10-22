@@ -1,0 +1,75 @@
+ARD,http://live-lh.daserste.de/i/daserste_de@91204/master.m3u8,Vollprogramm
+ZDF,http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8?dw=0,Vollprogramm
+WDR,http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8,Vollprogramm
+NDR Hamburg,http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8,Vollprogramm
+RBB,http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8,Vollprogramm
+MDR Sachsen,http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8,Vollprogramm
+HR,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8,Vollprogramm
+SWR BW,http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8,Vollprogramm
+BR Süd,http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8,Vollprogramm
+BR alpha,http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8,Vollprogramm
+Tagesschau 24,http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8,Vollprogramm
+ONE / EinsFestival,http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/master.m3u8,Vollprogramm
+ZDF Info,http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?dw=0,Vollprogramm
+ZDF Neo,http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?dw=0,Vollprogramm
+Phoenix,http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?dw=0,Vollprogramm
+arte,http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8,Vollprogramm
+3sat,http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0,Vollprogramm
+Deutsche Welle,http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8,Vollprogramm
+Deutscher Bundestag 1,http://xapp144277506c1000153.f.l.z.lb.core-cdn.net/10120xbttvlive/hk1mobile.smil/playlist.m3u8,Bundesregierung
+Deutscher Bundestag 2,http://xapp144277506c1000153.f.l.z.lb.core-cdn.net/10121xbttvlive/hk2mobile.smil/playlist.m3u8,Bundesregierung
+SR Landtag,http://sr_landtag-lh.akamaihd.net/i/sr_landtag@166846/master.m3u8,Politik
+N24 InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,Nachrichten
+N24,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,Nachrichten
+n-tv,http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8,Nachrichten
+EuroNews (via YouTube),https://www.youtube.com/embed/fVHvPe18dRA,Nachrichten
+Family TV,http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8,Unterhaltung
+blizz,http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8,Unterhaltung
+eoTV,http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8?scheme=m3u8,Unterhaltung
+HealthTV,http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8,Gesundheit
+Welt der Wunder TV,http://live.vidoo.de/live/weltderwunder/playlist.m3u8,Wissen/Technik
+Servus TV,https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master.m3u8,Privatsender
+Anixe TV,http://video1.anixehd.tv:8080/Apple/anixe.m3u8,Privatsender
+4 Seasons TV,http://content.jwplatform.com/manifests/LtMsmYhi.m3u8,Reise
+Souvenir from Earth,http://live.streaming.rngd.cloud/sfe/live/playlist.m3u8,Kunst
+Deutsches Anleger Fernsehen,http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8,Nachrichten
+Deutsches Musik Fernsehen,http://tv.artcom-venture.de:1322/dmf/tv.m3u8,Musik
+MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8,Musik
+Nickelodeon,http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8,Kinder
+ERF 1,http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/f1tv.m3u8,Kirche/Glauben
+Bibel TV,http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8,Kirche/Glauben
+Bibel TV Impuls,http://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8,Kirche/Glauben
+Bibel TV Musik,http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8,Kirche/Glauben
+Hope Channel,https://bcsecurelivehls-i.akamaihd.net/hls/live/257428/4303072782001/master.m3u8,Kirche/Glauben
+k-TV,http://ec2-52-57-41-34.eu-central-1.compute.amazonaws.com/p/101/sp/10100/playManifest/entryId/0_0rfgbtwj/format/applehttp/protocol/http/uiConfId/23448243/a.m3u8,Kirche/Glauben
+Astro TV,http://rrbalancer.broadcast.tneg.de:1935/astrotv/smil:astro.smil/playlist.m3u8,Kirche/Glauben
+Light Channel,http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8, Kirche/Glauben
+Sonnenklar TV,http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8,Shopping
+1-2-3-TV,http://123tv.cdn.ses-ps.com/index.m3u8,Shopping
+QVC,http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi5/live-test.m3u8?disableDVR=1,Shopping
+QVC Plus,http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi6/live-test.m3u8?disableDVR=1,Shopping
+QVC Beauty,http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/live-test.m3u8?disableDVR=1,Shopping
+HSE 24,https://c17001-l.u.core.cdn.streamfarm.net/17001hse24/live/3175hse24/live_de.isml/playlist.m3u8,Shopping
+HSE 24 Extra,https://c17001-l.u.core.cdn.streamfarm.net/17001hse24/live/3293hse24digital/live_de.isml/playlist.m3u8,Shopping
+Juwelo,https://sdn-global-live-http-cache.3qsdn.com/2555/_definst_/mp4:2555_NqcvTQ4hmnHPkRM/playlist.m3u8,Shopping
+Channel21 (YouTube),https://www.youtube.com/embed/live_stream?channel=UCcst6yHdE5Gdisu5YKCgc1g&autoplay=1&rel=0&showinfo=0,Shopping
+Pearl TV,http://enstyle.cdn.ses-ps.com/index.m3u8,Shopping
+Mediaspar TV,http://mediaspar-live.hls.adaptive.level3.net/ses/mediaspar/index.m3u8,Shopping
+Sparhandy TV,http://sparhandytv-live.hls.adaptive.level3.net/ses/sparhandytv/index.m3u8,Shopping
+KiKa,http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8,Kinder
+RiC,https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8,Kinder
+Sky Sportnews HD,https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8,Nachrichten
+BVB Total LIVE (zeitweise),http://hls-live-clubtv.cdn.tvnext.tv/clubtv-bvb-live/smil:bvb-live.smil/playlist.m3u8,Sport
+HSV Total LIVE (zeitweise),http://37.44.1.10/clubtv-hsv-live/smil:hsv-live.smil/playlist.m3u8,Sport
+Sport 1 (ext),http://tv.sport1.de/sport1/,Sport
+Visit-X,http://stream.visit-x.tv/vxtv/live/playlist.m3u8,Erotik
+Disney Channel (ext),http://disneychannel.de/livestream,Kinder
+Folx TV,http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8,Musik
+Ikono TV,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5656_KypcLhrPFd3vNZw/f1tv.m3u8,Kultur
+Sportstime TV 1,http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8?wowzatokenhash=sUTjnxXLdal6Y8bBzs9an_zhqn7VrgWUS5uB8sckoCw=,Sport
+Sportstime TV 2,http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8?wowzatokenhash=qgtY96D77QocQoiJn6MCsyHbBMGla2uQoQ03XvQYkuE=,Sport
+ARD (non-geo),http://daserstelive-lh.akamaihd.net/i/daserste_int@38088/master.m3u8,Deutschland
+ZDF (non-geo),http://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8,Deutschland
+WDR (non-geo),http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8,Deutschland
+KiKa (non-geo),http://kika-lh.akamaihd.net/i/livetvkika_ww@72295/master.m3u8,Deutschland
+BR (non-geo),http://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/master.m3u8,Deutschland
