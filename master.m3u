@@ -35,5 +35,17 @@ http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0
 #EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="Deutsche Welle" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/dw%20europe.png",Deutsche Welle
 http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
-#EXTINF:-1 tvg-name="Deutscher Bundestag 1" tvg-id="Deutscher Bundestag 1" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/dw%20europe.png",Deutscher Bundestag 1
-http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1 tvg-name="Deutscher Bundestag 1" tvg-id="Deutscher Bundestag 1" group-title="TV_DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Deutscher Bundestag 1
+http://xapp144277506c1000153.f.l.z.lb.core-cdn.net/10120xbttvlive/hk1mobile.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Deutscher Bundestag 2" tvg-id="Deutscher Bundestag 2" group-title="TV_DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Deutscher Bundestag 2
+http://xapp144277506c1000153.f.l.z.lb.core-cdn.net/10121xbttvlive/hk2mobile.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="N24 Infoscreen" tvg-id="N24 Infoscreen" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/n24.png",N24 Infoscreen
+https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8
+#EXTINF:-1 tvg-name="FamilyTV" tvg-id="FamilyTV" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/family%20tv.png",FamilyTV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+#EXTINF:-1 tvg-name="blizz" tvg-id="blizz" group-title="TV_DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png",blizz
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:-1 tvg-name="eoTV" tvg-id="eoTV" group-title="TV_DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png",blizz
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8?scheme=m3u8
+#EXTINF:-1 tvg-name="HealthTV" tvg-id="HealthTV" group-title="TV_DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png",HealthTV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
