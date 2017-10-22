@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="IPTV-DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/das%20erste%20hd.png",Das Erste
-https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="TV_DE" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/das%20erste%20hd.png",Das Erste
+https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/master.m3u8
