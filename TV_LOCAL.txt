@@ -1,0 +1,60 @@
+RTL West (18:00-18:30),http://rtlwest-i.akamaihd.net/hls/live/220067/rtlwest/master.m3u8,Privatsender (zeitweise)
+RTL Nord (18:00-18:30),http://l2117.insinceurope.net/ilive2117/stream_01.stream/playlist.m3u8,Privatsender (zeitweise)
+Sat.1 Bayern,http://stream.sat1bayern.de:1935/live/Sat1Schedule_01//playlist.m3u8,Privatsender (zeitweise)
+Sat.1 Hamburg,http://llnw.insinceurope.net/sat1hh/loop_hh/playlist.m3u8,Privatsender (zeitweise)
+Sat.1 Hannover,http://llnw.insinceurope.net/sat1ha/loop_ha/playlist.m3u8,Privatsender (zeitweise)
+Campus HD,https://564adc830234c.streamlock.net:1936/unitv/smil:hdcampusmultistream.smil/f1tv.m3u8,Lokal TV
+NRWISION,http://129.217.183.165:1935/live/livestream/playlist.m3u8,Lokal TV
+Center TV,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8,Lokal TV
+FRF 1,http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8,Lokal TV
+Sylt 1,http://62.67.13.54:1935/sylt1/sylt1_high.stream/playlist.m3u8,Lokal TV
+Hamburg 1,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5655_F7KT9xCQkXwbNmq/playlist.m3u8,Lokal TV
+Oldenburg ,http://188.40.16.94:1935/live/studio/playlist.m3u8,Lokal TV
+EV1 TV ,http://62.113.221.6/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8,Lokal TV
+Potsdam TV,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8,Lokal TV
+Oberpfalz TV,http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/f1tv.m3u8,Lokal TV
+Isar TV,https://586c13b083c0d.streamlock.net/isar-tv/isar-tv.stream_1/playlist.m3u8,Lokal TV
+DRF 1,http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8,Lokal TV
+Leipzig TV,http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8,Lokal TV
+Chemnitz TV,http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8,Lokal TV
+Dresden TV,http://regio-tv-stream.de:1935/dresdenfernsehenlive/livestream.sdp/playlist.m3u8,Lokal TV
+Metropol Region TV,http://62.113.210.9/metropolregiontv-live/_definst_/mp4:livestream/playlist.m3u8,Lokal TV
+BW Family,http://live.bwfamily.tv/rtplive/iphone.sdp/playlist.m3u8,Lokal TV
+Der Hauptstadt-Sender,http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8,Lokal TV
+TV Alex Berlin,http://alex-stream.rosebud-media.de/live/_definst_/alexlivetv.smil/playlist.m3u8,Lokal TV
+München TV,http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/hasbahca.m3u8,Lokal TV
+TV Ostbayern,http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8,Lokal TV
+Tele Regional Passau,http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/hasbahca.m3u8,Lokal TV
+Rhein-Main-TV,http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8,Lokal TV
+Main TV,http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8,Lokal TV
+Donau TV,http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8,Lokal TV
+Baden TV,http://cdn2.siebnich.info/rtplive/btv.stream/playlist.m3u8,Lokal TV
+NOA 4 Norderstedt,http://hls1.wtnet.de/noa4/apple/wifi.m3u8,Lokal TV
+NOA 4 Hamburg,http://hls1.wtnet.de/noa4hh/apple/wifi.m3u8,Lokal TV
+Tide,http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/chunklist_w1838803172.m3u8,Lokal TV
+Elbekanal,http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8,Lokal TV
+OK Magdeburg,http://62.113.210.250/medienasa-live/mdf1_high/hasbahca.m3u8,Lokal TV
+OK Merseburg,http://62.113.210.250/medienasa-live/ok-merseburg_high/hasbahca.m3u8,Lokal TV
+OK Stendal,http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800,Lokal TV
+OK Harz,http://62.113.210.250/medienasa-live/punktum_high/hasbahca.m3u8?bitrate=800,Lokal TV
+OK Biterfeld,http://62.113.210.250/medienasa-live/rbw_high/hasbahca.m3u8?bitrate=800,Lokal TV
+OK Halle,http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8,Lokal TV
+Augsburg TV,http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8,Bayern
+Donau TV,http://donautvhd.iptv-playoutcenter.de/donautvHD/ngrp:donautvhd.stream_all/playlist.m3u8,Bayern
+Franken TV,https://586dce1287bfd.streamlock.net/frankentv/frankentv.stream_1/playlist.m3u8,Bayern
+Ingolstadt TV,https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8,Bayern
+Isar TV,http://isartvhd.iptv-playoutcenter.de/isartvHD/ngrp:isartvhd.stream_all/playlist.m3u8,Bayern
+Oberpfalz TV,https://586c13b083c0d.streamlock.net/otvHD/ngrp:otvHD.stream_all/playlist.m3u8,Bayern
+Tele Regional Passau 1,http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8,Bayern
+TV Aktuell,http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8,Bayern
+Tv Oberfranken,http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8,Bayern
+TV Touring Schweinfurt,http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8,Bayern
+TV Touring Mainfranken,http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8,Bayern
+Tv Allgaeu,http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8,Bayern
+Kabeljournal,http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8,Sachsen
+Tirol TV,http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8,Oesterreich
+St.Poelten TV,http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8,Oesterreich
+Mostviertel TV,http://5.9.11.81/live/stream_720p/master.m3u8,Oesterreich
+RTS Salzburg,http://80.237.191.228:1935/live/_definst_/RTS2015/f1tv.m3u8,Oesterreich
+Laendle TV,http://80.237.191.228:1935/live/LaendleTV/f1tv.m3u8,Oesterreich
+ReEinsTV,http://www.reeins.tv:1935/live/re1/f1tv.m3u8,Oesterreich 
