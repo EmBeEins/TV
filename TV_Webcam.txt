@@ -1,0 +1,43 @@
+DO-Stadthaus,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv95_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+HH-Michel,http://stream.livespotting.tv/windit-edge/_definst_/mp4:LS_b5586_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+HH-BuL,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv172_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+HH-Empire Riverside 1,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv166a_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+HH-Empire Riverside 2,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv166b_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+HH-Emporio,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv47_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+HH-Unileverhaus,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv74_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+HH-Wedel,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv191_720p.stream/playlist.m3u8?sa=wetter.com,Deutschland
+B-InterConti,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv133_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+Sylt-Westerland,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv43_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+Sylt-Kampen,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv49_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+Sylt-Hoernum,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv7_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+Scharbeutz,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv41_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
+Atlantis The Palm 1,http://video3.earthcam.com/fecnetwork/73ecf263e3d9138fba388e81043c5e36.flv/playlist.m3u8,VAE
+Atlantis The Palm 2,http://video3.earthcam.com/fecnetwork/4417c5f6222e4d8cef5d867a08e81f5c.flv/playlist.m3u8,VAE
+DO-Flughafen 1,http://do.airport.1000eyes.de/cupertino/doF4F2A4.stream/playlist.m3u8,Flughafen
+DO-Flughafen 2,http://do.airport.1000eyes.de/cupertino/doF4F29C.stream/playlist.m3u8,Flughafen
+D-Flughafen 1,http://stream-5gw.1000eyes.de/cupertino/dus0600.stream/playlist.m3u8,Flughafen
+D-Flughafen 2,http://stream-5gw.1000eyes.de/cupertino/dus8a21.stream/playlist.m3u8,Flughafen
+D-Flughafen 3,http://stream-5gw.1000eyes.de/cupertino/dus2777.stream/playlist.m3u8,Flughafen
+D-Flughafen 4,http://stream-5gw.1000eyes.de/cupertino/dus275d.stream/playlist.m3u8,Flughafen
+D-Flughafen 5,http://stream-5gw.1000eyes.de/cupertino/dusbc0c.stream/playlist.m3u8,Flughafen
+K-Flughafen 1,http://stream-5gw.1000eyes.de/cupertino/cgnC8409D.stream/playlist.m3u8,Flughafen
+K-Flughafen 2,http://stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8,Flughafen
+K-Flughafen 3,http://stream-5gw.1000eyes.de/cupertino/cgnC84090.stream/playlist.m3u8,Flughafen
+K-Flughafen 4,http://stream-5gw.1000eyes.de/cupertino/cgnCAA490.stream/playlist.m3u8,Flughafen
+HH-Flughafen 1,http://ham.airport.1000eyes.de/cupertino/hamDDFB28.stream/playlist.m3u8,Flughafen
+HH-Flughafen 2,http://ham.airport.1000eyes.de/cupertino/hamDDFBCE.stream/playlist.m3u8,Flughafen
+HH-Flughafen 3,http://ham.airport.1000eyes.de/cupertino/hamDDD79C.stream/playlist.m3u8,Flughafen
+HH-Flughafen 4,http://ham.airport.1000eyes.de/cupertino/hamDD9CCF.stream/playlist.m3u8,Flughafen
+Scheveningen 1,http://live.streamink.nl/live/sys1.stream/playlist.m3u8,Niederlande
+Scheveningen 2,http://live.streamink.nl/live/sys2.stream/playlist.m3u8,Niederlande
+Scheveningen 3,http://scheef.mine.nu/live/sys19.stream/playlist.m3u8,Niederlande
+Puerto Rico,http://cdn-001.whatsupcams.com/hls/es_puertorico01.m3u8,Gran Canaria
+Las Palmas 1,http://cdn-03.whatsupcams.com/hls/es_laspalmas1.m3u8,Gran Canaria
+Las Palmas 2,http://cdn-03.whatsupcams.com/hls/es_laspalmas2.m3u8,Gran Canaria
+Las Palmas 3,http://cdn-03.whatsupcams.com/hls/es_laspalmas3.m3u8,Gran Canaria
+Ibiza Stadt,http://94.228.215.67:1935/live/livecam067.stream/playlist.m3u8,Spanien
+Palma de Mallorca,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv162_720p.stream/playlist.m3u8?sa=wetter.com,Spanien
+Palma de Mallorca Hafen,http://94.228.215.67:1935/live/livecam026.stream/playlist.m3u8,Spanien
+Barcelona,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv165_720p.stream/playlist.m3u8?sa=wetter.com,Spanien
+ISS Live,http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8,USA
+EarthTV,http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8,Weltweit
