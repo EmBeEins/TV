@@ -1,0 +1,65 @@
+BVB Total LIVE,http://hls-live-clubtv.cdn.tvnext.tv/clubtv-bvb-live/smil:bvb-live.smil/playlist.m3u8,Sport
+HSV Total LIVE,http://37.44.1.10/clubtv-hsv-live/smil:hsv-live.smil/playlist.m3u8,Sport
+WDR Event 1,http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/master.m3u8,Event-Streams
+WDR Event 2,http://wdr_ardevent2-lh.akamaihd.net/i/wdrardevent2_geogeblockt@112050/master.m3u8,Event-Streams
+WDR Event 3,http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/master.m3u8,Event-Streams
+WDR Event 4,http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/master.m3u8,Event-Streams
+WDR Event 5,http://emwdr-lh.akamaihd.net/i/em2016_wdr@182638/master.m3u8?dw=10,Event-Streams
+WDR Event 6,http://ardevent2geo.wdr.de/i/wdrardevent2_geogeblockt@112050/master.m3u8,Event-Stream
+WDR Event 7,http://event1geo.wdr.de/i/wdrevent1_geogeblockt@112051/master.m3u8,Event-Stream
+WDR Event 8,http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/master.m3u8,Event-Stream
+MDR Event 1,http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/master.m3u8,Event-Streams
+MDR Event 2,http://liveevent2.mdr.de/i/livetvmdrevent2_ww@106905/master.m3u8,Event-Streams
+NDR Event 1,http://ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/master.m3u8,Event-Streams
+NDR Event 2,http://ndr_events-lh.akamaihd.net/i/ndrevent_2@119221/master.m3u8,Event-Streams
+NDR Event 3,http://ndr_events-lh.akamaihd.net/i/ndrevent_3@119222/master.m3u8,Event-Streams
+NDR Spezial 1,http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/master.m3u8,Event-Streams
+NDR Spezial 2,http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/master.m3u8,Event-Streams
+NDR Spezial 3,http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/master.m3u8,Event-Streams
+NDR Spezial 4,http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/master.m3u8,Event-Streams
+NDR Spezial 5,http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/master.m3u8,Event-Streams
+NDR Spezial 6,http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/master.m3u8,Event-Streams
+RB Event 1,http://rb_live-lh.akamaihd.net/i/rb_event@153198/master.m3u8,Event-Streams
+RBB Event 1,http://rbbevent01-lh.akamaihd.net/i/rbbevent01_nongeo@22155/master.m3u8,Event-Streams
+RBB Event 2,http://rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/master.m3u8,Event-Streams
+HR Event 1,http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8,Event-Streams
+HR Event 2,http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8,Event-Streams
+BR Event 1,http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/master.m3u8,Event-Streams
+BR Event 2,http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/master.m3u8,Event-Streams
+BR Event 3,http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/master.m3u8,Event-Streams
+BR Event 4,http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/master.m3u8,Event-Streams
+SWR Event 1,http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/master.m3u8,Event-Streams
+SWR Event 2,http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/master.m3u8,Event-Streams
+SWR Event 3,http://swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/master.m3u8,Event-Streams
+SWR Event 4,http://swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/master.m3u8,Event-Streams
+SR Event 1,http://live_sr-lh.akamaihd.net/i/sr_universal01@105663/master.m3u8,Event-Streams
+Tagesschau 24 Event 1,http://tagesschau-lh.akamaihd.net/i/tagesschau_2@119232/master.m3u8,Event-Streams
+ARD Event 1,http://metafiles.gl-systemhaus.de/wdr/ARD/ARD_Event1_geo.m3u8,Event-Streams
+ARD Event 2,http://metafiles.gl-systemhaus.de/wdr/ARD/ARD_Event2_geo.m3u8,Event-Streams
+Sat.1 RAN Event 1,http://ran01de-live.hls.adaptive.level3.net/sevenone/ran01de/ipad.m3u8,Sport
+Sat.1 RAN Event 2,http://ran02de-live.hls.adaptive.level3.net/sevenone/ran02de/ipad.m3u8,Sport
+Sat.1 RAN Event 3,http://ran03dach-live.hls.adaptive.level3.net/sevenone/ran03dach/ipad.m3u8,Sport
+Sat.1 RAN Event 4,http://ran04dach-live.hls.adaptive.level3.net/sevenone/ran04dach/ipad.m3u8,Sport
+ZDF Event 1,http://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8?dw=0,Event-Streams
+ZDF Event 2,http://zdf0304-lh.akamaihd.net/i/de03_v1@392855/master.m3u8?dw=0,Event-Streams
+ZDF Event 3,http://zdf0304-lh.akamaihd.net/i/de04_v1@392856/master.m3u8?dw=0,Event-Streams
+ZDF Event 4,http://zdf0506-lh.akamaihd.net/i/de05_v1@392857/master.m3u8?dw=0,Event-Streams
+ZDF Event 5,http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/master.m3u8?dw=0,Event-Streams
+ZDF Event 6,http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/master.m3u8?dw=0,Event-Streams
+ZDF Event 7,http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/master.m3u8?dw=0,Event-Streams
+arte Event 1,http://arteevent01-lh.akamaihd.net/i/arte_event01@395110/master.m3u8,Event-Streams
+arte Event 2,http://arteevent02-lh.akamaihd.net/i/arte_event02@308866/master.m3u8,Event-Streams
+arte Event 3,https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/master.m3u8,Event-Streams
+Sky Sports Event 1,https://eventhlshttps-i.akamaihd.net/hls/live/511666/event01hls/indexvideo-3400.m3u8,Sport
+Sky Sports Event 2,https://eventhlshttps-i.akamaihd.net/hls/live/511667/event02hls/index.m3u8,Sport
+Sky Sports Event 3,https://eventhlshttps-i.akamaihd.net/hls/live/511668/event03hls/index.m3u8,Sport
+SKY Golf 1,http://skygolf-lh.akamaihd.net/i/otr_1@454945/master.m3u8,Sport
+Sky Golf 2,http://skygolf-lh.akamaihd.net/i/ac_1@454941/master.m3u8,Sport
+Bild.de Event 1,http://bildlivehls-lh.akamaihd.net/i/Bildlive_1@107601/master.m3u8,Event-Streams
+Bild.de Event 2,http://bildlivehls-lh.akamaihd.net/i/redcarpet_1@107601/master.m3u8,Event-Streams
+CTV Event 1,http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8,Event
+CTV Event 2,http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8,Event
+CTV Event 3,http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8,Event
+CTV Event 4,http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8,Event
+DFB 1,https://dfbliveuniversal-lh.akamaihd.net/i/dfb_live_1_1@180340/index_2000_av-b.m3u8?sd=10&b=0-10000,Sport
+DFB 2,https://dfbliveuniversal-lh.akamaihd.net/i/dfb_live_2_1@180341/index_2000_av-b.m3u8?sd=10&b=0-10000,Sport
