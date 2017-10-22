@@ -2,8 +2,8 @@ ARD,http://live-lh.daserste.de/i/daserste_de@91204/master.m3u8,Vollprogramm
 ZDF,http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8?dw=0,Vollprogramm
 WDR,http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8,Vollprogramm
 NDR Hamburg,https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8,Vollprogramm
-RBB,http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8,Vollprogramm
-MDR Sachsen,http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8,Vollprogramm
+RBB,https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8,Vollprogramm
+MDR Sachsen,http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8,Vollprogramm
 HR,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8,Vollprogramm
 SWR BW,http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8,Vollprogramm
 BR Süd,http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8,Vollprogramm
