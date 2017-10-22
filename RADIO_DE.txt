@@ -1,0 +1,146 @@
+WDR 1LIVE,http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3,WDR
+WDR 1LIVE Neu,http://wdr-1live-neufuerdensektor.icecast.wdr.de/wdr/1live/neufuerdensektor/mp3/128/stream.mp3,WDR
+WDR 1LIVE Fiehe,http://wdr-1live-fiehe.icecast.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3,WDR
+WDR 1LIVE Special,http://wdr-1live-specials.icecast.wdr.de/wdr/1live/specials/mp3/128/stream.mp3,WDR
+WDR 1LIVE Diggi,http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3,WDR
+WDR 1LIVE PlanB,http://wdr-1live-planb.icecast.wdr.de/wdr/1live/planb/mp3/128/stream.mp3,WDR
+WDR 1LIVE Nachrichten,http://ondemand.wdr.de/radio/nachrichten/nachrichten_1live.mp3,WDR
+WDR 2 Rheinland,http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3,WDR
+WDR 2 Ruhrgebiet,http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3,WDR
+WDR 3,http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3,WDR
+WDR 4,http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3,WDR
+WDR 5,http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3,WDR
+WDR Cosmo,http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3,WDR
+WDR Kiraka,http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3,WDR
+WDR Vera,http://www.wdr.de/wdrlive/media/hls/vera.m3u8,WDR
+Antenne Brandenburg,http://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3,RBB
+Antenne Saar,http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm,SR
+BR 5 Aktuell,http://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/128/stream.mp3,BR
+BR 5 Plus,http://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/128/stream.mp3,BR
+Bayern 1,http://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/128/stream.mp3,BR
+Bayern 2,http://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/128/stream.mp3,BR
+Bayern 3,http://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3,BR
+BR Heimat,http://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3,BR
+BR Puls,http://br-puls-live.cast.addradio.de/br/puls/live/mp3/128/stream.mp3,BR
+BR Plus,http://br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/128/stream.mp3,BR
+BR Klassik,http://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3,BR
+Bremen 1,http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3,RB
+Bremen 4,http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3,RB
+Bremen 4 Rockt,http://webchannel.radiobremen.de:8000/rockt,RB
+Bremen Next,http://rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3,RB
+Bremen Special,http://webchannel.radiobremen.de:8000/special.m3u,RB
+Bremen Zeigler,http://80.252.104.101:8000/zeigler.m3u,RB
+Bremen Beatclub,http://webchannel.radiobremen.de:8000/beatclub.m3u,RB
+DasDing,https://swr-dasding-live.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3,SWR
+DLF,http://stream.dradio.de/7/249/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dlf_m,DRADIO
+DLF Kultur,http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m,DRADIO
+DLF Debatten,http://dradio_mp3_dokdeb_s.akacast.akamaistream.net/7/725/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dokdeb_s,DRADIO
+DLF Nova,http://stream.dradio.de/7/728/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dwissen_m,DRADIO
+Fritz,http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3,RBB
+HR 1,http://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3,HR
+HR 2,http://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3,HR
+HR 3,http://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3,HR
+HR 4,http://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3,HR
+HR Info,http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3,HR
+HR YouFM,http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3,HR
+Inforadio,http://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3,RBB
+Kulturradio,http://rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/128/stream.mp3,RBB
+MDR Sachsen,http://c22033-l.i.core.cdn.streamfarm.net/22001mdr1sachsen/live/3087mdr_sachsen/live_de_128.mp3,MDR
+MDR Schlagerwelt,http://livestream.mdr.de/mdrschlagerwelt/sachsen-128.mp3,MDR
+MDR Kultur,http://c22033-l.i.core.cdn.streamfarm.net/22007mdrfigaro/live/3087mdr_figaro/live_de_128.mp3,MDR
+MDR Klassik 1,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_figaro/ch_classic_128.mp3,MDR
+MDR Klassik 2,http://c22033-l.i.core.cdn.streamfarm.net/22008mdrklassik/live/3087mdrklassik/live_de_128.mp3,MDR
+MDR Figaro,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_figaro/ch_figarino_128.mp3,MDR
+MDR Folk,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_figaro/ch_folk_128.mp3,MDR
+MDR Aktuell,http://c22033-l.i.core.cdn.streamfarm.net/22006mdr/live/3087mdr_info/live_de_128.mp3,MDR
+MDR Jump,http://c22033-ls.i.core.cdn.streamfarm.net/T3R6XGogC9922033/22033mdr/live/app2128740352/w2128904194/live_de_128.mp3,MDR
+MDR Jump in the mix,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_jump/ch_inthemix_128.mp3,MDR
+MDR Jump Rock,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_jump/ch_rock_128.mp3,MDR
+MDR Jump Trend,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_jump/ch_trend_128.mp3,MDR
+MDR Sputnik,http://c22033-ls.i.core.cdn.streamfarm.net/UjIe753Ui9922033/22033mdr/live/app2128740352/w2128904195/live_de_128.mp3,MDR
+MDR Sputnik Black,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_black_128.mp3,MDR
+MDR Sputnik Club,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_club_128.mp3,MDR
+MDR Sputnik Insomnia,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_insomnia_128.mp3,MDR
+MDR Sputnik Popkult,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_popkult_128.mp3,MDR
+MDR Sputnik Rock,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_rock_128.mp3,MDR
+MDR Sputnik Soundcheck,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_soundcheck_128.mp3,MDR
+MDR Sputnik Roboton,http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_sputnik/ch_roboton_128.mp3,MDR
+MDR Thueringen,http://c22033-ls.i.core.cdn.streamfarm.net/9lBrdAv9G9922033/22033mdr/live/app2128740352/w2128904199/live_de_128.mp3,MDR
+NDR 1 NDS,http://ndr-loop-1.cast.addradio.de/ndr/loop/1/mp3/128/stream.mp3,NDR
+NDR 1 MV,http://ndr-loop-3.cast.addradio.de/ndr/loop/3/mp3/128/stream.mp3,NDR
+NDR 1 Welle Nord,http://ndr-loop-9.cast.addradio.de/ndr/loop/9/mp3/128/stream.mp3,NDR
+NDR 2,http://ndr-ndr2-nds-mp3.akacast.akamaistream.net/7/400/252763/v1/gnl.akacast.akamaistream.net/ndr_ndr2_nds_mp3,NDR
+NDR 2 Easy,http://ndr-loop-23.cast.addradio.de/ndr/loop/23/mp3/128/stream.mp3,NDR
+NDR 2 Rock,http://ndr-loop-21.cast.addradio.de/ndr/loop/21/mp3/128/stream.mp3,NDR
+NDR 2 Soul,http://ndr-loop-22.cast.addradio.de/ndr/loop/22/mp3/128/stream.mp3,NDR
+NDR 2 Soundcheck Live,http://ndr-loop-15.cast.addradio.de/ndr/loop/15/mp3/128/stream.mp3,NDR
+NDR 2 Soundcheck Milestones,http://ndr-loop-16.cast.addradio.de/ndr/loop/16/mp3/128/stream.mp3,NDR
+NDR 2 Soundcheck Deutsch,http://ndr-loop-17.cast.addradio.de/ndr/loop/17/mp3/128/stream.mp3,NDR
+NDR 2 Soundcheck Neue Musik,http://ndr-loop-18.cast.addradio.de/ndr/loop/18/mp3/128/stream.mp3,NDR
+NDR 90.3,http://ndr-ndr903-mp3.akacast.akamaistream.net/7/956/273760/v1/gnl.akacast.akamaistream.net/ndr_ndr903_mp3,NDR
+NDR Blue,http://ndr-ndrblue-mp3.akacast.akamaistream.net/7/803/273759/v1/gnl.akacast.akamaistream.net/ndr_ndrblue_mp3,NDR
+NDR Info,http://ndr-ndrinfo-nds-mp3.akacast.akamaistream.net/7/250/273753/v1/gnl.akacast.akamaistream.net/ndr_ndrinfo_nds_mp3,NDR
+NDR Info Spezial,http://ndr-ndrinfo-spezial-mp3.akacast.akamaistream.net/7/795/273757/v1/gnl.akacast.akamaistream.net/ndr_ndrinfo_spezial_mp3,NDR
+NDR Kultur Belcanto,http://ndr-loop-2.cast.addradio.de/ndr/loop/2/mp3/128/stream.mp3,NDR
+NDR Kultur Neo,http://ndr-loop-24.cast.addradio.de/ndr/loop/24/mp3/128/stream.mp3,NDR
+NDR Plus,http://ndr-plus-mp3.akacast.akamaistream.net/7/40/478106/v1/gnl.akacast.akamaistream.net/ndr-plus-mp3,NDR
+NDR N-JOY,http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamaistream.net/ndr_n-joy_mp3,NDR
+NDR N-JOY Flavor,http://ndr-loop-7.cast.addradio.de/ndr/loop/7/mp3/128/stream.mp3,NDR
+NDR N-JOY Mix,http://ndr-loop-28.cast.addradio.de/ndr/loop/28/mp3/128/stream.mp3,NDR
+NDR N-JOY Pop,http://ndr-loop-28.cast.addradio.de/ndr/loop/28/mp3/128/stream.mp3,NDR
+NDR N-JOY Alternative,http://ndr-loop-5.cast.addradio.de/ndr/loop/5/mp3/128/stream.mp3,NDR
+Nordwestradio,http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3,RB
+Radio Berlin 88.8,http://rbb-radioberlin-live.cast.addradio.de/rbb/radioberlin/live/mp3/128/stream.mp3,RBB
+Radio Eins,http://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3,RBB
+SR 1,http://sr1m.akacast.akamaistream.net/7/725/142685/v1/gnl.akacast.akamaistream.net/sr1m,SR
+SR 1 Lounge,http://sr1c2.akacast.akamaistream.net/7/458/142688/v1/gnl.akacast.akamaistream.net/sr1c2,SR
+SR 1 Absolut Musik,http://sr1c1.akacast.akamaistream.net/7/461/142688/v1/gnl.akacast.akamaistream.net/sr1c1,SR
+SR 2,http://sr2m.akacast.akamaistream.net/7/375/142686/v1/gnl.akacast.akamaistream.net/sr2m,SR
+SR 3,http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m,SR
+SR 3 Schlager,http://sr3c1.akacast.akamaistream.net/7/123/142688/v1/gnl.akacast.akamaistream.net/sr3c1,SR
+SR 3 Oldie,http://sr3c2.akacast.akamaistream.net/7/124/142688/v1/gnl.akacast.akamaistream.net/sr3c2,SR
+SR UnserDing,http://udc2.akacast.akamaistream.net/7/27/142688/v1/gnl.akacast.akamaistream.net/udc2,SR
+SWR 1,https://swr-swr1-bw.sslcast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3,SWR
+SWR 2,https://swr-swr2-live.sslcast.addradio.de/swr/swr2/live/mp3/256/stream.mp3,SWR
+SWR 2 Archivradio,http://swr-swr-raka02.cast.addradio.de/swr/swr/raka02/mp3/128/stream.mp3,SWR
+SWR 3,https://swr-swr3-live.sslcast.addradio.de/swr/swr3/live/mp3/64/stream.mp3,SWR
+SWR 4,https://swr-swr4-rp.sslcast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3,SWR
+SWR Aktuell,https://swr-swraktuell-live.sslcast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3,SWR
+Antenne Bayern 80er,http://www.antenne.de/webradio/channels/80er-kulthits.m3u,AntenneBayern
+Antenne Bayern 90er,http://www.antenne.de/webradio/channels/90er-hits.m3u,AntenneBayern
+Antenne Bayern Alpensound,http://www.antenne.de/webradio/channels/alpensound.m3u,AntenneBayern
+Antenne Bayern Chillout,http://www.antenne.de/webradio/channels/chillout.m3u,AntenneBayern
+Antenne Bayern Classic Rock LIVE,http://www.antenne.de/webradio/channels/classic-rock-live.m3u,AntenneBayern
+Antenne Bayern Fresh,http://www.antenne.de/webradio/channels/fresh.m3u,AntenneBayern
+Antenne Bayern Hitmix,http://www.antenne.de/webradio/channels/hitmix.m3u,AntenneBayern
+Antenne Bayern Lovesongs,http://www.antenne.de/webradio/channels/lovesongs.m3u,AntenneBayern
+Antenne Bayern New Hits,http://www.antenne.de/webradio/channels/new-hits.m3u,AntenneBayern
+Antenne Bayern Oldies but Goldies,http://www.antenne.de/webradio/channels/oldies-but-goldies.m3u,AntenneBayern
+Antenne Bayern Party Hits,http://www.antenne.de/webradio/channels/party-hits.m3u,AntenneBayern
+Antenne Bayern Schlager,http://www.antenne.de/webradio/channels/das-schlager-karussell.m3u,AntenneBayern
+Antenne Bayern Top40,http://www.antenne.de/webradio/channels/top-40.m3u,AntenneBayern
+Antenne Bayern Weihnachten,http://www.antenne.de/webradio/channels/weihnachts-hits.m3u,AntenneBayern
+Antenne Bayern Workout,http://www.antenne.de/webradio/channels/workout-hits.m3u8,AntenneBayern
+RockAntenne,http://www.rockantenne.de/webradio/rockantenne.m3u,AntenneBayern
+RockAntenne Erding,http://www.rockantenne.de/webradio/channels/rockantennelocal01.m3u,AntenneBayern
+RockAntenne Alternative,http://www.rockantenne.de/webradio/channels/alternative.m3u,AntenneBayern
+RockAntenne Heavy Metal,http://www.rockantenne.de/webradio/channels/heavy-metal.m3u,AntenneBayern
+RockAntenne Classic Perlen,http://www.rockantenne.de/webradio/channels/classic-perlen.m3u,AntenneBayern
+RockAntenne Soft Rock,http://www.rockantenne.de/webradio/channels/soft-rock.m3u,AntenneBayern
+RockAntenne Young Stars,http://www.rockantenne.de/webradio/channels/young-stars.m3u,AntenneBayern
+RockAntenne Deutschrock,http://www.rockantenne.de/webradio/channels/deutschrock.m3u,AntenneBayern
+SWR 3 VisualRadio,http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/master.m3u8,SWR
+SWR DasDing VisualRadio,http://swrdasding-lh.akamaihd.net/i/dasdingvisual_live@6416/master.m3u8,SWR
+ElDOradio,http://sender.eldoradio.de:8000/128.mp3,Lokal
+Radio 91.2 Lokalnachrichten,http://radio912web.lokalradioservices.de/news/lokalnews.mp3,Lokal
+Radio 91.2 Weltnachrichten,http://radio912web.lokalradioservices.de/news/nrwnews.mp3,Lokal
+Antenne Unna,http://server3.lokalradioserver.de:8000/stream2.mp3,Lokal
+Radio NRW Deine Lounge,http://rnrw.cast.addradio.de/rnrw-0159/deinlounge/high/stream.mp3?ar-purpose=web,Lokal
+Radio NRW 80er,http://rnrw.cast.addradio.de/rnrw-0185/dein80er/high/stream.mp3,Lokal
+Radio NRW 90er,http://rnrw.cast.addradio.de/rnrw-0185/dein90er/high/stream.mp3,Lokal
+Radio NRW Rock,http://rnrw.cast.addradio.de/rnrw-0185/deinrock/high/stream.mp3,Lokal
+Radio NRW Schlager,http://rnrw.cast.addradio.de/rnrw-0185/deinschlager/high/stream.mp3,Lokal
+Radio NRW Deutschpop,http://rnrw.cast.addradio.de/rnrw-0185/deindeutschpop/high/stream.mp3,Lokal
+Radio NRW Top40,http://rnrw.cast.addradio.de/rnrw-0185/deintop40/high/stream.mp3,Lokal
+Radio NRW Weihnachten,http://rnrw.cast.addradio.de/rnrw-0185/deinevent/high/stream.mp3,Lokal
+Radio NRW Urban,http://rnrw.cast.addradio.de/rnrw-0185/deinurban/high/stream.mp3,Lokal
