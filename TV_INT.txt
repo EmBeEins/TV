@@ -11,7 +11,7 @@ Austria 24,http://streaming.austria24.tv/live/stream/master.m3u8,Oesterreich
 GoTV,http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8,Musik
 KroneHit,http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8,Musik
 XITE,http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8,Musik
-Deluxe Music,http://event.mivitec.net/dist/media/playlist.m3u8,Musik
+Deluxe Music,http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8,Musik
 Beatz,http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8,Musik
 MTV Nordic,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8, Musik
 MTV Music24,http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8, Musik	
