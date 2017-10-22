@@ -49,3 +49,16 @@ http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8?scheme=m3u8
 #EXTINF:-1 tvg-name="HealthTV" tvg-id="HealthTV" group-title="TV_DE" tvg-logo="https://github.com/EmBeEins/TV/blob/master/logo.png",HealthTV
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="Welt der Wunder" group-title="TV_DE" tvg-logo="https://github.com/EmBeEins/TV/blob/master/logo.png",Welt der Wunder
+http://live.vidoo.de/live/weltderwunder/playlist.m3u8
+#EXTINF:-1 tvg-name="ServusTV" tvg-id="ServusTV" group-title="TV_DE" tvg-logo="https://github.com/EmBeEins/TV/blob/master/logo.png",ServusTV
+https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master.m3u8
+#EXTINF:-1 tvg-name="Anixe" tvg-id="Anixe" group-title="TV_DE" tvg-logo="https://github.com/EmBeEins/TV/blob/master/logo.png",Anixe
+http://video1.anixehd.tv:8080/Apple/anixe.m3u8
+#EXTINF:-1 tvg-name="AktionaerTV" tvg-id="AktionaerTV" group-title="TV_DE" tvg-logo="https://github.com/EmBeEins/TV/blob/master/logo.png",AktionaerTV
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="AktionaerTV" tvg-id="AktionaerTV" group-title="TV_DE" tvg-logo="https://github.com/EmBeEins/TV/blob/master/logo.png",AktionaerTV
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SkySportNewsHD" tvg-id="SkySportNewsHD" group-title="TV_DE" tvg-logo="https://github.com/EmBeEins/TV/blob/master/logo.png",SkySportNewsHD
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
+
