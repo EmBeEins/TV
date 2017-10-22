@@ -9,7 +9,7 @@ SWR BW,http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8,Vollprogramm
 BR Süd,http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8,Vollprogramm
 BR alpha,http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8,Vollprogramm
 Tagesschau 24,http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8,Vollprogramm
-ONE / EinsFestival,http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/master.m3u8,Vollprogramm
+ONE,http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8,Vollprogramm
 ZDF Info,http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?dw=0,Vollprogramm
 ZDF Neo,http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?dw=0,Vollprogramm
 Phoenix,http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?dw=0,Vollprogramm
