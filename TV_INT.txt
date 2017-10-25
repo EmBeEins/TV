@@ -264,3 +264,4 @@ FOX25,http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8,US
 Fox News 23,http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8,USA
 Fox Carolina,https://livestream.com/accounts/1859803/events/1648429/player,USA
 Fox Tampa,https://livestream.com/accounts/6180769/events/2557366/player,USA
+ThaiPBS,http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8,Thailand
