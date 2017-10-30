@@ -10,6 +10,7 @@ FRF 1,http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/pl
 Sylt 1,http://62.67.13.54:1935/sylt1/sylt1_high.stream/playlist.m3u8,Lokal TV
 Hamburg 1,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5655_F7KT9xCQkXwbNmq/playlist.m3u8,Lokal TV
 Oldenburg ,http://188.40.16.94:1935/live/studio/playlist.m3u8,Lokal TV
+Franken Fernsehen,https://586dce1287bfd.streamlock.net/frankentv/frankentv.stream_1/playlist.m3u8,Lokal TV
 EV1 TV ,http://62.113.221.6/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8,Lokal TV
 Potsdam TV,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8,Lokal TV
 Oberpfalz TV,http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/f1tv.m3u8,Lokal TV
