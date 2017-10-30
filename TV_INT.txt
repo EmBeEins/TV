@@ -265,3 +265,8 @@ Fox News 23,http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 Fox Carolina,https://livestream.com/accounts/1859803/events/1648429/player,USA
 Fox Tampa,https://livestream.com/accounts/6180769/events/2557366/player,USA
 ThaiPBS,http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8,Thailand
+Olympics Channel 1,https://live.olympicchannel.com/ocs/channel01b/master.m3u8,USA
+Olympics Channel 2,https://live.olympicchannel.com/ocs/channel02b/master.m3u8,USA
+Olympics Channel 3,https://live.olympicchannel.com/ocs/channel03b/master.m3u8,USA
+Olympics Channel 4,https://live.olympicchannel.com/ocs/channel04b/master.m3u8,USA
+Olympics Channel 5,https://live.olympicchannel.com/ocs/channel05b/master.m3u8,USA
