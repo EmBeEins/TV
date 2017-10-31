@@ -3,7 +3,6 @@ RTL Nord (18:00-18:30),http://l2117.insinceurope.net/ilive2117/stream_01.stream/
 Sat.1 Bayern,http://stream.sat1bayern.de:1935/live/Sat1Schedule_01//playlist.m3u8,Privatsender (zeitweise)
 Sat.1 Hamburg,http://llnw.insinceurope.net/sat1hh/loop_hh/playlist.m3u8,Privatsender (zeitweise)
 Sat.1 Hannover,http://llnw.insinceurope.net/sat1ha/loop_ha/playlist.m3u8,Privatsender (zeitweise)
-Campus HD,https://564adc830234c.streamlock.net:1936/unitv/smil:hdcampusmultistream.smil/f1tv.m3u8,Lokal TV
 NRWISION,http://129.217.183.165:1935/live/livestream/playlist.m3u8,Lokal TV
 Center TV,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8,Lokal TV
 FRF 1,http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8,Lokal TV
