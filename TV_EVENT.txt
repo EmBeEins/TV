@@ -1,5 +1,3 @@
-BVB Total LIVE,http://hls-live-clubtv.cdn.tvnext.tv/clubtv-bvb-live/smil:bvb-live.smil/playlist.m3u8,Sport
-HSV Total LIVE,http://37.44.1.10/clubtv-hsv-live/smil:hsv-live.smil/playlist.m3u8,Sport
 WDR Event 1,http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/master.m3u8,Event-Streams
 WDR Event 2,http://wdr_ardevent2-lh.akamaihd.net/i/wdrardevent2_geogeblockt@112050/master.m3u8,Event-Streams
 WDR Event 3,http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/master.m3u8,Event-Streams
