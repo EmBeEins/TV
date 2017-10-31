@@ -10,9 +10,7 @@ B-InterConti,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv133_720p.
 Sylt-Westerland,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv43_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
 Sylt-Kampen,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv49_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
 Sylt-Hoernum,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv7_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
-Scharbeutz,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv41_720p.stream/playlist.m3u8?sa=windit.de,Deutschland
-Atlantis The Palm 1,http://video3.earthcam.com/fecnetwork/73ecf263e3d9138fba388e81043c5e36.flv/playlist.m3u8,VAE
-Atlantis The Palm 2,http://video3.earthcam.com/fecnetwork/4417c5f6222e4d8cef5d867a08e81f5c.flv/playlist.m3u8,VAE
+Atlantis The Palm,http://video3.earthcam.com/fecnetwork/73ecf263e3d9138fba388e81043c5e36.flv/playlist.m3u8,VAE
 DO-Flughafen 1,http://do.airport.1000eyes.de/cupertino/doF4F2A4.stream/playlist.m3u8,Flughafen
 DO-Flughafen 2,http://do.airport.1000eyes.de/cupertino/doF4F29C.stream/playlist.m3u8,Flughafen
 D-Flughafen 1,http://stream-5gw.1000eyes.de/cupertino/dus0600.stream/playlist.m3u8,Flughafen
@@ -32,10 +30,8 @@ Scheveningen 1,http://live.streamink.nl/live/sys1.stream/playlist.m3u8,Niederlan
 Scheveningen 2,http://live.streamink.nl/live/sys2.stream/playlist.m3u8,Niederlande
 Scheveningen 3,http://scheef.mine.nu/live/sys19.stream/playlist.m3u8,Niederlande
 Puerto Rico,http://cdn-001.whatsupcams.com/hls/es_puertorico01.m3u8,Gran Canaria
-Las Palmas 1,http://cdn-03.whatsupcams.com/hls/es_laspalmas1.m3u8,Gran Canaria
-Las Palmas 2,http://cdn-03.whatsupcams.com/hls/es_laspalmas2.m3u8,Gran Canaria
-Las Palmas 3,http://cdn-03.whatsupcams.com/hls/es_laspalmas3.m3u8,Gran Canaria
-Ibiza Stadt,http://94.228.215.67:1935/live/livecam067.stream/playlist.m3u8,Spanien
+Las Palmas,https://cdn-002.whatsupcams.com/hls/es_laspalmas3.m3u8,Gran Canaria
+Charco de Bristol,https://cdn-001.whatsupcams.com/hls/es_fuerteventura01.m3u8,Fuerteventura
 Palma de Mallorca,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv162_720p.stream/playlist.m3u8?sa=wetter.com,Spanien
 Palma de Mallorca Hafen,http://94.228.215.67:1935/live/livecam026.stream/playlist.m3u8,Spanien
 Barcelona,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv165_720p.stream/playlist.m3u8?sa=wetter.com,Spanien
