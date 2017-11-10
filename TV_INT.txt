@@ -85,6 +85,7 @@ Rai Yoyo,http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8,Italie
 Rai News,http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8,Italien
 SkyTG24,http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8,Italien
 Suedtirol TV,http://77.72.196.214:8554/live/SuedtirolTV/master.m3u8,Italien
+Channel55,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:6023_8FXKkRJb6NMmLzW/playlist.m3u8,Schweiz
 Kanal 9 HD,https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8,Schweiz
 TeleBasel,http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8,Schweiz
 TV O,https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8,Schweiz
