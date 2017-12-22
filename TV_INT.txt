@@ -160,7 +160,7 @@ NBC Golf,http://live-trl102.abweb.com/liveabtrl102/ngrp:golfchannel.stream_bis/c
 Miami TV,http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8,USA
 NFL Live,http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/index9.m3u8,USA
 NFL now,https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8,USA
-PAC 12,http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8,USA
+PAC 12,http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8,USA
 Poker Channel,http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_282_av-b.m3u8?sd=10&rebase=on,USA
 NASA TV,https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8,USA
 NASA TV 2,https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master_500.m3u8,USA
