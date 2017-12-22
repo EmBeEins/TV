@@ -15,7 +15,7 @@ Deluxe Music,http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8,M
 Beatz,https://beats_1.vedge.infomaniak.com/livecast/beats_1/master.m3u8,Musik
 MTV Nordic,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8, Musik
 MTV Music24,http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8, Musik	
-Heart TV,http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8,Musik
+Heart TV,http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8,Musik#
 Capital TV,http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8,Musik
 TVM3,https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8?,Musik
 NRJ France TV,https://energytv.vedge.infomaniak.com/livecast/energytv/f1tv.m3u8,Musik
@@ -195,3 +195,4 @@ Olympics Channel 5,https://live.olympicchannel.com/ocs/channel05b/master.m3u8,US
 RedBull,http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8,USA
 ABC NEWS AUS,http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8,Australien
 CNN,http://cnn-lh.akamaihd.net/i/cnndebates_1@352100/master.m3u8,USA
+FOX ShepSmith,http://fnurtmp-f.akamaihd.net/i/SHEPSMITH_1@459383/master.m3u8,USA
