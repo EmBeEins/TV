@@ -48,7 +48,7 @@ ZDF Event 7,http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/master.m3u8?dw=0,Eve
 arte Event 1,http://arteevent01-lh.akamaihd.net/i/arte_event01@395110/master.m3u8,Event-Streams
 arte Event 2,http://arteevent02-lh.akamaihd.net/i/arte_event02@308866/master.m3u8,Event-Streams
 arte Event 3,https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/master.m3u8,Event-Streams
-Sky Sports Event 1,https://eventhlshttps-i.akamaihd.net/hls/live/511666/event01hls/indexvideo-3400.m3u8,Sport
+Sky Sports Event 1,https://eventhlshttps-i.akamaihd.net/hls/live/511666/event01hls/index.m3u8,Sport
 Sky Sports Event 2,https://eventhlshttps-i.akamaihd.net/hls/live/511667/event02hls/index.m3u8,Sport
 Sky Sports Event 3,https://eventhlshttps-i.akamaihd.net/hls/live/511668/event03hls/index.m3u8,Sport
 SKY Golf 1,http://skygolf-lh.akamaihd.net/i/otr_1@454945/master.m3u8,Sport
