@@ -162,8 +162,8 @@ NFL Live,http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/index9.
 NFL now,https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8,USA
 PAC 12,http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8,USA
 Poker Channel,http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_282_av-b.m3u8?sd=10&rebase=on,USA
-NASA TV,https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8,USA
-NASA TV 2,https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master_500.m3u8,USA
+NASA TV,https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8,USA
+NASA TV 2,https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8,USA
 CBS News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8,USA
 CBS 47,http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/904k/prog.m3u8,USA
 CBS Sports,http://cbssportslive-f.akamaihd.net/i/cbklive1_1@13913/master.m3u8,Sport
