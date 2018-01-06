@@ -179,7 +179,7 @@ C-SPAN 3,http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd
 Voice Of America,http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8,USA
 FreeSpeech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8,USA
 Revn,http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8,USA
-METV,http://video.metv.com/metv/index.m3u8,USA
+Fox5,https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8,USA
 Fox30,http://cmghlslive-i.akamaihd.net/hls/live/224710/WFOX/904k/prog.m3u8,USA
 FOX25,http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8,USA
 Fox News 23,http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8,USA
@@ -200,3 +200,11 @@ Fox Edge 1,https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/master.m3u8,USA
 Fox Edge 2,https://foxedge-lh.akamaihd.net/i/EDGE2_1@320289/master.m3u8,USA
 Fox Edge 3,https://foxedge-lh.akamaihd.net/i/EDGE3_1@576167/master.m3u8,USA
 Fox Edge 4,https://foxedge-lh.akamaihd.net/i/EDGE4_1@576168/master.m3u8,USA
+ActionNewsNow,https://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8,USA
+KPNX,https://b_kpnx-f.akamaihd.net/i/KPNXBreaking_1@398330/master.m3u8,USA
+WSJ Live,http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8,USA
+Adult Swim MAIN,https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8,USA
+Adult Swim Black Jesus,http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8,USA
+Adult Swim Off the Air,http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8,USA
+Spirit TV,http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit1/playlist.m3u8,USA
+Bridge TV,https://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8,USA
