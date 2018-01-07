@@ -59,8 +59,6 @@ Sparhandy TV,http://sparhandytv-live.hls.adaptive.level3.net/ses/sparhandytv/ind
 KiKa,http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8,Kinder
 RiC,https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8,Kinder
 Sky Sportnews HD,https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8,Nachrichten
-BVB Total LIVE (zeitweise),http://hls-live-clubtv.cdn.tvnext.tv/clubtv-bvb-live/smil:bvb-live.smil/playlist.m3u8,Sport
-HSV Total LIVE (zeitweise),http://37.44.1.10/clubtv-hsv-live/smil:hsv-live.smil/playlist.m3u8,Sport
 Sport 1 (ext),http://tv.sport1.de/sport1/,Sport
 Visit-X,http://stream.visit-x.tv/vxtv/live/playlist.m3u8,Erotik
 Disney Channel (ext),http://disneychannel.de/livestream,Kinder
