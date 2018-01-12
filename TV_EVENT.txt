@@ -61,3 +61,4 @@ CTV Event 3,http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/New
 CTV Event 4,http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8,Event
 DFB 1,https://dfbliveuniversal-lh.akamaihd.net/i/dfb_live_1_1@180340/index_2000_av-b.m3u8?sd=10&b=0-10000,Sport
 DFB 2,https://dfbliveuniversal-lh.akamaihd.net/i/dfb_live_2_1@180341/index_2000_av-b.m3u8?sd=10&b=0-10000,Sport
+ClipMyHorse,https://live-t3.clipmyhorse.tv/live/smil:adaptive.smil/playlist.m3u8?BB1_EkkZRMMiAHSQofrR4f_kmypRpWXmCo9_KeTq3aprZwnGWi_V5CfbHvooz_6P,Sport
