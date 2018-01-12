@@ -75,3 +75,7 @@ BR (non-geo),http://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/master.
 ARD (Untertitel),http://dasersteliveut-lh.akamaihd.net/i/daserste_ut_de@516176/master.m3u8,Deutschland
 BR (Untertitel),http://br_hdslive-f.akamaihd.net/i/brbfssued_ut_de@127380/master.m3u8,Deutschland
 HR (Untertitel),http://live1_hr_sub-lh.akamaihd.net/i/live1_hr_sub@93062/master.m3u8,Deutschland
+nice Europe,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3015-mbr.smil/playlist.m3u8,VirtualRadio
+nice Berlin,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/playlist.m3u8,VirtualRadio
+nice Schlager,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:6673_KFY9BVPgcj8xfDt/playlist.m3u8,VirtualRadio
+nice Black,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:6069-mbr.smil/playlist.m3u8,VirtualRadio
