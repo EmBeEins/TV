@@ -69,7 +69,7 @@ Sportstime TV 2,http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.
 Sportstime TV 4,http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8?wowzatokenhash=BhYr7Qu4cZ8LgxWiF7cuQ_hA7sxqdon5Kw0sIHJ7TpM=,Sport
 ARD (non-geo),http://daserstelive-lh.akamaihd.net/i/daserste_int@38088/master.m3u8,Deutschland
 ZDF (non-geo),http://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8,Deutschland
-WDR (non-geo),http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_184_av-p.m3u8?sd=10&rebase=on,Deutschland
+WDR (non-geo),http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8?sd=10&rebase=on,Deutschland
 KiKa (non-geo),http://kika-lh.akamaihd.net/i/livetvkika_ww@72295/master.m3u8,Deutschland
 BR (non-geo),http://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/master.m3u8,Deutschland
 ARD (Untertitel),http://dasersteliveut-lh.akamaihd.net/i/daserste_ut_de@516176/master.m3u8,Deutschland
