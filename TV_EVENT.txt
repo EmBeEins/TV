@@ -67,3 +67,8 @@ Sport Deutschland 2,http://origin.vidibus.net/live/stream/sd-2.m3u8,Sport
 Sport Deutschland 3,http://origin.vidibus.net/live/stream/sd-3.m3u8,Sport
 Sport Deutschland 4,http://origin.vidibus.net/live/stream/sd-4.m3u8,Sport
 Sport Deutschland 5,http://origin.vidibus.net/live/stream/sd-5.m3u8,Sport
+Sport Deutschland 6,http://origin.vidibus.net/live/stream/sd-6.m3u8,Sport
+Sport Deutschland 7,http://origin.vidibus.net/live/stream/sd-7.m3u8,Sport
+Sport Deutschland 8,http://origin.vidibus.net/live/stream/sd-8.m3u8,Sport
+Sport Deutschland 9,http://origin.vidibus.net/live/stream/sd-9.m3u8,Sport
+Sport Deutschland 10,http://origin.vidibus.net/live/stream/sd-10.m3u8,Sport
