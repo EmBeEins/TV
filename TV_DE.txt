@@ -21,7 +21,7 @@ Deutscher Bundestag 2,http://xapp144277506c1000153.f.l.z.lb.core-cdn.net/10121xb
 SR Landtag,http://sr_landtag-lh.akamaihd.net/i/sr_landtag@166846/master.m3u8,Politik
 N24 InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,Nachrichten
 N24,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,Nachrichten
-n-tv,http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8,Nachrichten
+n-tv,http://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8,Nachrichten
 EuroNews (via YouTube),https://www.youtube.com/embed/fVHvPe18dRA,Nachrichten
 Family TV,http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8,Unterhaltung
 blizz,http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8,Unterhaltung
