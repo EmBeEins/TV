@@ -16,8 +16,8 @@ Phoenix,http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?dw=0,Vollpro
 arte,http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8,Vollprogramm
 3sat,http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0,Vollprogramm
 Deutsche Welle,http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8,Vollprogramm
-Deutscher Bundestag 1,http://xapp144277506c1000153.f.l.z.lb.core-cdn.net/10120xbttvlive/hk1mobile.smil/playlist.m3u8,Bundesregierung
-Deutscher Bundestag 2,http://xapp144277506c1000153.f.l.z.lb.core-cdn.net/10121xbttvlive/hk2mobile.smil/playlist.m3u8,Bundesregierung
+Deutscher Bundestag 1,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8,Bundesregierung
+Deutscher Bundestag 2,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8,Bundesregierung
 SR Landtag,http://sr_landtag-lh.akamaihd.net/i/sr_landtag@166846/master.m3u8,Politik
 Welt InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,Nachrichten
 Welt,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,Nachrichten
