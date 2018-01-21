@@ -56,6 +56,7 @@ Sky Golf 2,http://skygolf-lh.akamaihd.net/i/ac_1@454941/master.m3u8,Sport
 Bild.de Event 1,http://bildlivehls-lh.akamaihd.net/i/Bildlive_1@107601/master.m3u8,Event-Streams
 Bild.de Event 2,http://bildlivehls-lh.akamaihd.net/i/redcarpet_1@107601/master.m3u8,Event-Streams
 Bild.de Dschungelshow,http://bildlivehls-lh.akamaihd.net/i/ds18_1@107601/master.m3u8,Event-Streams
+SPD.de,https://spd-75ec.kxcdn.com/b1stream/playlist.m3u8,Event-Streams
 CTV Event 1,http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8,Event
 CTV Event 2,http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8,Event
 CTV Event 3,http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8,Event
