@@ -74,3 +74,10 @@ Sport Deutschland 7,http://origin.vidibus.net/live/stream/sd-7.m3u8,Sport
 Sport Deutschland 8,http://origin.vidibus.net/live/stream/sd-8.m3u8,Sport
 Sport Deutschland 9,http://origin.vidibus.net/live/stream/sd-9.m3u8,Sport
 Sport Deutschland 10,http://origin.vidibus.net/live/stream/sd-10.m3u8,Sport
+Olympia 1 ARD,https://olympia1ardmsl-lh.akamaihd.net/i/ows1_msl@167397/master.m3u8,Sport
+Olympia 2 ARD,https://olympia2slmsl-lh.akamaihd.net/i/ows2_msl@37191/master.m3u8,Sport
+Olympia 3 ARD,https://olympia3slmsl-lh.akamaihd.net/i/ows3_msl@37201/master.m3u8,Sport
+Olympia 4 ARD,https://olympia4slmsl-lh.akamaihd.net/i/ows4_msl@39596/master.m3u8,Sport
+Olympia 1 ZDF,https://zdf0304-lh.akamaihd.net/i/de03_v1@392855/master.m3u8,Sport
+Olympia 2 ZDF,https://zdf0304-lh.akamaihd.net/i/de04_v1@392856/master.m3u8,Sport
+Olympia 3 ZDF,https://zdf0506-lh.akamaihd.net/i/de05_v1@392857/master.m3u8,Sport
