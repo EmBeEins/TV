@@ -171,7 +171,8 @@ CBS Sports,http://cbssportslive-f.akamaihd.net/i/cbklive1_1@13913/master.m3u8,Sp
 ABC News,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8,USA
 MSNBC,http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8,USA
 Pentagon Channel,http://dmatpclivestream-lh.akamaihd.net/i/dodnews1_1@75655/master.m3u8,USA
-Bloomberg,http://cdn3.videos.bloomberg.com/btv/us/master.m3u8,USA
+Bloomberg EU,https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8,USA
+Bloomberg USA,https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8,USA
 360North,http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8,USA
 WGN 9,http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8,USA
 Weather Channel,http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/p,USA
