@@ -147,4 +147,5 @@ Deutsche Welle (English),http://dwstream1-lh.akamaihd.net/i/dwstream1_live@12042
 Deutsche Welle (Espanol),http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8,International
 MC Play,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/master.m3u8,Musik
 CNN Chile,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8,Chile
+CNN India,http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8,Indien
 ThaiPBS,http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8,Thailand
