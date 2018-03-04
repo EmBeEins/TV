@@ -18,7 +18,6 @@ arte,http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8,Vollprogra
 Deutsche Welle,http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8,Vollprogramm
 Deutscher Bundestag 1,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8,Bundesregierung
 Deutscher Bundestag 2,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8,Bundesregierung
-SR Landtag,http://sr_landtag-lh.akamaihd.net/i/sr_landtag@166846/master.m3u8,Politik
 Welt InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,Nachrichten
 Welt,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,Nachrichten
 n-tv,http://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8,Nachrichten
