@@ -7,7 +7,6 @@ ORF 2 Europe,http://apasfiisl.apa.at/ipad/orf2e_q6a/orf.sdp/playlist.m3u8,Oester
 ORF 3 HD,http://apasfiisl.apa.at/ipad/orfsx_q4a/orf.sdp/playlist.m3u8,Oesterreich
 ORF Sport+ HD,http://orf2.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8,Oesterreich
 ORF Parlament,http://parlament.sf.apa.at/parlament_live1/parlament.smil/playlist.m3u8,Oesterreich
-Austria 24,http://streaming.austria24.tv/live/stream/master.m3u8,Oesterreich
 GoTV,http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8,Musik
 KroneHit,http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8,Musik
 XITE,http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8,Musik
