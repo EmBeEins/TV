@@ -163,8 +163,7 @@ NFL Live,http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/index9.
 NFL now,https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8,USA
 PAC 12,http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8,USA
 Poker Channel,http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_282_av-b.m3u8?sd=10&rebase=on,USA
-NASA TV,https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8,USA
-NASA TV 2,https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8,USA
+NASA TV,http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8,USA
 CBS News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8,USA
 CBS 47,http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/904k/prog.m3u8,USA
 CBS Sports,http://cbssportslive-f.akamaihd.net/i/cbklive1_1@13913/master.m3u8,Sport
@@ -196,7 +195,7 @@ Fox Edge 1,https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/master.m3u8,USA
 Fox Edge 2,https://foxedge-lh.akamaihd.net/i/EDGE2_1@320289/master.m3u8,USA
 Fox Edge 3,https://foxedge-lh.akamaihd.net/i/EDGE3_1@576167/master.m3u8,USA
 Fox Edge 4,https://foxedge-lh.akamaihd.net/i/EDGE4_1@576168/master.m3u8,USA
-Fox5,https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8,USA
+Fox5,http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8,USA
 Fox30,http://cmghlslive-i.akamaihd.net/hls/live/224710/WFOX/904k/prog.m3u8,USA
 FOX25,http://cmghlslive-i.akamaihd.net:80/hls/live/224671/WFXT/904k/prog.m3u8,USA
 Fox News 23,http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8,USA
@@ -216,3 +215,10 @@ MC Brits,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143
 MC Metal,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/master.m3u8,Musik
 MC Country,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/master.m3u8,Musik
 MC 90s,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/master.m3u8,Musik
+KXAN Austin,http://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8,USA
+KOB4 New Mexico,http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8,USA
+NBC 5 Chicago,http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8,USA
+NBC 13 New York,http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8,USA
+KTVZ 21 Oregon,http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8,USA
+News 4 Washington,http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8,USA
+WXXV25,http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8,USA
