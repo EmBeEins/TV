@@ -1,11 +1,11 @@
 EbS,http://ott.ec.streamcloud.be/live/disk1/EBS/hls_or/EBS.m3u8,Europa
 EbS+,http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_or/EBSplus.m3u8,Europa
 OE24 TV,http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8,Oesterreich
-ORF 1 HD,http://apasfiisl.apa.at/ipad/orf1x_q4a/orf.sdp/playlist.m3u8,Oesterreich
-ORF 2 HD,http://apasfiisl.apa.at/ipad/orf2x_q4a/orf.sdp/playlist.m3u8,Oesterreich
+ORF 1 HD,http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8,Oesterreich
+ORF 2 HD,http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8,Oesterreich
 ORF 2 Europe,http://apasfiisl.apa.at/ipad/orf2e_q6a/orf.sdp/playlist.m3u8,Oesterreich
-ORF 3 HD,http://apasfiisl.apa.at/ipad/orfsx_q4a/orf.sdp/playlist.m3u8,Oesterreich
-ORF Sport+ HD,http://orf2.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8,Oesterreich
+ORF 3 HD,http://orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8,Oesterreich
+ORF Sport+ HD,http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8,Oesterreich
 ORF Parlament,http://parlament.sf.apa.at/parlament_live1/parlament.smil/playlist.m3u8,Oesterreich
 GoTV,http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8,Musik
 KroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8,Musik
