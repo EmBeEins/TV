@@ -56,7 +56,7 @@ Channel21 (YouTube),https://www.youtube.com/embed/live_stream?channel=UCcst6yHdE
 Pearl TV,http://enstyle.cdn.ses-ps.com/index.m3u8,Shopping
 Mediaspar TV,http://mediaspar-live.hls.adaptive.level3.net/ses/mediaspar/index.m3u8,Shopping
 Sparhandy TV,http://sparhandytv-live.hls.adaptive.level3.net/ses/sparhandytv/index.m3u8,Shopping
-KiKa,http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8,Kinder
+KiKa,https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8,Kinder
 RiC,https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8,Kinder
 Sky Sportnews HD,https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8,Nachrichten
 Sport 1 (ext),http://tv.sport1.de/sport1/,Sport
