@@ -52,10 +52,10 @@ RTE 2,https://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-360.m3u8,Irland
 RTE Jr,https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-360.m3u8,Irland
 RTL TVI,http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8,Belgien
 TV Limburg,http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8,Belgien
-La 1,http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/master.m3u8,Spanien
-La 2,http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/master.m3u8,Spanien
-24 Horas,http://hlsackdn_gl8-lh.akamaihd.net/i/hlslive_1@441481/master.m3u8,Spanien
-TVE Catalunia,http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@68497/master.m3u8,Spanien
+La 1,http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8,Spanien
+La 2,http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8,Spanien
+24 Horas,http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8,Spanien
+TVE Catalunia,http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/master.m3u8,Spanien
 Antene 3 24,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8,Spanien
 Congresso,http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8?DVR&m3u8,Spanien
 Antene 3,http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8,Spanien
