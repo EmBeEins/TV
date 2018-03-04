@@ -27,7 +27,6 @@ C-SPAN 3,http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd
 Voice Of America,http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8,USA
 FreeSpeech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8,USA
 Revn,http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8,USA
-ThaiPBS,http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8,Thailand
 Olympics Channel 1,https://live.olympicchannel.com/ocs/channel01b/master.m3u8,USA
 Olympics Channel 2,https://live.olympicchannel.com/ocs/channel02b/master.m3u8,USA
 Olympics Channel 3,https://live.olympicchannel.com/ocs/channel03b/master.m3u8,USA
