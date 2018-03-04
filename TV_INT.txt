@@ -66,14 +66,11 @@ Mega,http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8,Spanien
 A3 Series,http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8,Spanien
 40 Principales,http://40-live-hd-f.akamaihd.net/i/40PremiosCam1_x@42847/master.m3u8,Spanien
 C33,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8,Spanien
-Kiss TV,http://kissfm.en-directo.com/iphone/index_multirate.m3u8,Spanien
-Travel TV,http://87.106.219.140:1935/live/smil:myStream.smil/playlist.m3u8,Spanien
 Iberia 3,http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8,Spanien
 EITB,http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8,Spanien
 TV Canaria,http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8,Spanien
 TV Ceuta,http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8,Spanien
 Real Madrid TV,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8,Spanien
-TaTeTi,http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on,Spanien
 Sevilla FC,http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8,Spanien
 Vatican TV,https://www.youtube.com/embed/86SemtwG6Lc?rel=0&autoplay=1,Vatikan
 Rai Premium,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8,Italien
