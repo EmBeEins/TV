@@ -152,7 +152,3 @@ Deutsche Welle (Arabia),http://dwstream71-lh.akamaihd.net/i/dwstream71_live@1245
 Deutsche Welle (English),http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8,International
 Deutsche Welle (Espanol),http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8,International
 MC Play,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/master.m3u8,Musik
-MC Brits,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/master.m3u8,Musik
-MC Metal,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/master.m3u8,Musik
-MC Country,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/master.m3u8,Musik
-MC 90s,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/master.m3u8,Musik
