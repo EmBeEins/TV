@@ -42,7 +42,7 @@ Bibel TV Impuls,http://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.strea
 Bibel TV Musik,http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8,Kirche/Glauben
 Hope Channel,https://bcsecurelivehls-i.akamaihd.net/hls/live/257428/4303072782001/master.m3u8,Kirche/Glauben
 k-TV,http://ec2-52-57-41-34.eu-central-1.compute.amazonaws.com/p/101/sp/10100/playManifest/entryId/0_0rfgbtwj/format/applehttp/protocol/http/uiConfId/23448243/a.m3u8,Kirche/Glauben
-Astro TV,http://rrbalancer.broadcast.tneg.de:1935/astrotv/smil:astro.smil/playlist.m3u8,Kirche/Glauben
+Astro TV,https://stream.astrotv.de/assets/hls/astrotv.m3u8,Kirche/Glauben
 Light Channel,http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8, Kirche/Glauben
 Sonnenklar TV,http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8,Shopping
 1-2-3-TV,http://123tv.cdn.ses-ps.com/index.m3u8,Shopping
