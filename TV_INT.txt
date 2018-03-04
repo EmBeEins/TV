@@ -24,7 +24,6 @@ CMC TV USA,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/
 Virgin Radio TV,http://wow01.105.net/live/virgin1/playlist.m3u8,Musik
 1Music,http://stream.1music.hu/stream/1music.m3u8,Musik
 HitMusic,http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8,Musik
-8Music,http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8,Musik
 M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on,Musik
 QMusic,http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8,Musik
 Hillsong Channel,http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8,Musik
