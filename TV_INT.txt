@@ -156,7 +156,6 @@ CBS Sacramento,http://play-prod1.live.anvato.net/server/play/cbslocal-kmax-dfp/m
 CBS San Francisco,http://play-prod1.live.anvato.net/server/play/cbslocal-kpix-dfp/master.m3u8,USA
 News4 Jacksonville,http://play-prod1.live.anvato.net/server/play/pns-wjxt-dfp/master.m3u8,USA
 News 10,http://play-prod1.live.anvato.net/server/play/pns-wplg-dfp/master.m3u8,USA
-NBC 4 LA,http://knbclive-f.akamaihd.net/i/knbca1_1@13988/master.m3u8,USA
 NBC Golf,http://live-trl102.abweb.com/liveabtrl102/ngrp:golfchannel.stream_bis/chunklist_b2096000.m3u8,USA
 Miami TV,http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8,USA
 NFL Live,http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/index9.m3u8,USA
