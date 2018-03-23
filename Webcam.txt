@@ -36,3 +36,5 @@ Palma de Mallorca,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv162_
 Palma de Mallorca Hafen,http://94.228.215.67:1935/live/livecam026.stream/playlist.m3u8,Spanien
 Barcelona,http://stream.livespotting.tv/windit-edge/_definst_/mp4:vv165_720p.stream/playlist.m3u8?sa=wetter.com,Spanien
 ISS Live,http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8,USA
+Bruseels,http://live.streamcloud.be/webbxl_live/webcam2.stream_mobile/playlist.m3u8,Belgien
+Brussels 2,http://live.streamcloud.be/webbxl_live/webcam.stream/playlist.m3u8,Belgien
