@@ -153,3 +153,4 @@ CNN Chile,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8,Chile
 CNN India,http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8,Indien
 ThaiPBS,http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8,Thailand
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8,China
+MUSICtop,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8,Argentinien
