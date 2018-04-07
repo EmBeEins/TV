@@ -143,6 +143,7 @@ NPO2 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/radio2/radio
 NPO3 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/3fm/3fm.isml/3fm.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
 NPO4 Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/radio4/radio4.isml/radio4.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
 NPO FunX Visual Radio,http://livestreams.omroep.nl/live/npo/visualradio/funx/funx.isml/funx.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url,Niederlande
+NPO Politiek24,http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24-audio_nld=128000-video=1400000.m3u8,Niederlande
 Deutsche Welle (Arabia),http://dwstream71-lh.akamaihd.net/i/dwstream71_live@124558/master.m3u8,International
 Deutsche Welle (English),http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8,International
 Deutsche Welle (Espanol),http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8,International
