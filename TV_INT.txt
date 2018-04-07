@@ -113,6 +113,7 @@ Omroep Gelderland,http://web.omroepgelderland.nl/live/livetv.m3u8,Niederlande
 Omroep Limburg,http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/index_1_av-p.m3u8,Niederlande
 Omroep Zeeland,http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8?wowzasessionid=285032609,Niederlande
 RTV Drente,http://stream.rtvdrenthe.nl/tv/tvstream1/playlist.m3u8,Niederlande
+NOS NEWS,https://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1400000.m3u8,Niederlande
 Radio Veronica,http://b2b.rr.kpnstreaming.nl/hls/live/b2b/skyradio/live/skyradio/veronica/1600.m3u8,Niederlande
 GONG,http://51.254.215.79/appflux/gong/playlist.m3u8,Frankreich
 Deutsche Welle TV (USA),http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8,Deutschland
