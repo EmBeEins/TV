@@ -66,3 +66,4 @@ NBC 13 New York,http://api.new.livestream.com/accounts/12240447/events/3818578/l
 KTVZ 21 Oregon,http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8,USA
 News 4 Washington,http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8,USA
 WXXV25,http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8,USA
+CNN18,http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8,USA
