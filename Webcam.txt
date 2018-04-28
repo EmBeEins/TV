@@ -39,3 +39,4 @@ ISS Live,http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/pl
 Bruseels,http://live.streamcloud.be/webbxl_live/webcam2.stream_mobile/playlist.m3u8,Belgien
 Brussels 2,http://live.streamcloud.be/webbxl_live/webcam.stream/playlist.m3u8,Belgien
 Düsseldorf,https://576d7d20b192f.streamlock.net/live/mp4:ddorfcam-mp/playlist.m3u8,Deutschland
+Düsseldorf2,https://56f2b065c34b1.streamlock.net:443/live/mp4:ddorfcam-ru/playlist.m3u8,Deutschland
