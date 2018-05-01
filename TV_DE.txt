@@ -80,3 +80,4 @@ nice Berlin,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:419
 nice Schlager,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:6673_KFY9BVPgcj8xfDt/playlist.m3u8,VirtualRadio
 nice Black,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:6069-mbr.smil/playlist.m3u8,VirtualRadio
 Fundorado TV,http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8,Erotik
+IM1,https://5856e1a25f71a.streamlock.net/easycast8-live/livestream/playlist.m3u8,Musik
