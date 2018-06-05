@@ -11,12 +11,13 @@ PAC 12,http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8,USA
 Poker Channel,http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_282_av-b.m3u8?sd=10&rebase=on,USA
 NASA TV,http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8,USA
 CBS News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8,USA
+CBN News,http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8,USA
 CBS 47,http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/904k/prog.m3u8,USA
 CBS Sports,http://cbssportslive-f.akamaihd.net/i/cbklive1_1@13913/master.m3u8,USA
 ABC News,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8,USA
 MSNBC,http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8,USA
 Pentagon Channel,http://dmatpclivestream-lh.akamaihd.net/i/dodnews1_1@75655/master.m3u8,USA
-Bloomberg EU,https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8,USA
+Bloomberg EU,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8,USA
 Bloomberg USA,https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8,USA
 360North,http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8,USA
 WGN 9,http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8,USA
