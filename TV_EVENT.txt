@@ -8,15 +8,8 @@ WDR Event 7,http://event1geo.wdr.de/i/wdrevent1_geogeblockt@112051/master.m3u8,E
 WDR Event 8,http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/master.m3u8,Event-Stream
 MDR Event 1,http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/master.m3u8,Event-Streams
 MDR Event 2,http://liveevent2.mdr.de/i/livetvmdrevent2_ww@106905/master.m3u8,Event-Streams
-NDR Event 1,http://ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/master.m3u8,Event-Streams
-NDR Event 2,http://ndr_events-lh.akamaihd.net/i/ndrevent_2@119221/master.m3u8,Event-Streams
-NDR Event 3,http://ndr_events-lh.akamaihd.net/i/ndrevent_3@119222/master.m3u8,Event-Streams
-NDR Spezial 1,http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/master.m3u8,Event-Streams
-NDR Spezial 2,http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/master.m3u8,Event-Streams
-NDR Spezial 3,http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/master.m3u8,Event-Streams
-NDR Spezial 4,http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/master.m3u8,Event-Streams
-NDR Spezial 5,http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/master.m3u8,Event-Streams
-NDR Spezial 6,http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/master.m3u8,Event-Streams
+NDR Event 1,https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8,Event-Streams
+NDR Event 2,https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8,Event-Streams
 RB Event 1,http://rb_live-lh.akamaihd.net/i/rb_event@153198/master.m3u8,Event-Streams
 RBB Event 1,http://rbbevent01-lh.akamaihd.net/i/rbbevent01_nongeo@22155/master.m3u8,Event-Streams
 RBB Event 2,http://rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/master.m3u8,Event-Streams
