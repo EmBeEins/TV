@@ -116,7 +116,9 @@ RTV Drente,http://stream.rtvdrenthe.nl/tv/tvstream1/playlist.m3u8,Niederlande
 NOS NEWS,https://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24-audio_nld=128000-video=1400000.m3u8,Niederlande
 Radio Veronica,http://b2b.rr.kpnstreaming.nl/hls/live/b2b/skyradio/live/skyradio/veronica/1600.m3u8,Niederlande
 GONG,http://51.254.215.79/appflux/gong/playlist.m3u8,Frankreich
-Deutsche Welle TV (USA),http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8,Deutschland
+Deutsche Welle TV (English),http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?play-only=primary,Deutschland
+Deutsche Welle TV (Spanisch),http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?play-only=primary,Deutschland
+Deutsche Welle TV (Arabisch),http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8?play-only=primary,Deutschland
 BRT HD,http://wms.brtk.net:1935/live/BRTHD/master.m3u8,Zypern
 TV 2 Bornholm,http://live.tv2bornholm.dk/stream/live/master.m3u8,Denmark
 Mad TV,http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8,Zypern
