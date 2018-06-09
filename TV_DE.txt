@@ -15,7 +15,8 @@ ZDF Neo,http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?dw=0,Vollpro
 Phoenix,http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?dw=0,Vollprogramm
 arte,http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8,Vollprogramm
 3sat,http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0,Vollprogramm
-Deutsche Welle,http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8,Vollprogramm
+Deutsche Welle,http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8?play-only=primary,Vollprogramm
+Deutsche Welle+,http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?play-only=primary,Vollprogramm
 Deutscher Bundestag 1,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8,Bundesregierung
 Deutscher Bundestag 2,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8,Bundesregierung
 Welt InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,Nachrichten
