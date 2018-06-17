@@ -77,3 +77,4 @@ Olympia 4 ARD,https://olympia4slmsl-lh.akamaihd.net/i/ows4_msl@39596/master.m3u8
 Olympia 1 ZDF,https://zdf0304-lh.akamaihd.net/i/de03_v1@392855/master.m3u8,Sport
 Olympia 2 ZDF,https://zdf0304-lh.akamaihd.net/i/de04_v1@392856/master.m3u8,Sport
 Olympia 3 ZDF,https://zdf0506-lh.akamaihd.net/i/de05_v1@392857/master.m3u8,Sport
+n-tv,https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event2_1@409368/master.m3u8,Event
