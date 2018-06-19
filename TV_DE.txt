@@ -69,7 +69,7 @@ Ikono TV,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5656_Ky
 Sportstime TV 1,http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8?wowzatokenhash=sUTjnxXLdal6Y8bBzs9an_zhqn7VrgWUS5uB8sckoCw=,Sport
 Sportstime TV 2,http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8?wowzatokenhash=qgtY96D77QocQoiJn6MCsyHbBMGla2uQoQ03XvQYkuE=,Sport
 Sportstime TV 4,http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8?wowzatokenhash=BhYr7Qu4cZ8LgxWiF7cuQ_hA7sxqdon5Kw0sIHJ7TpM=,Sport
-ARD (non-geo),http://daserstelive-lh.akamaihd.net/i/daserste_int@38088/master.m3u8,Deutschland
+ARD (non-geo),https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8,Deutschland
 ARD (GEO UT) 2,https://derste247liveut.akamaized.net/hls/live/662734/daserste_ut_de/master.m3u8,Deutschland
 ARD (non-geo UT),https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8,Deutschlans
 ZDF (non-geo),http://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8,Deutschland
