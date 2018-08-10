@@ -1,3 +1,4 @@
+ABC News,https://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8,Australia
 EbS,http://ott.ec.streamcloud.be/live/disk1/EBS/hls_or/EBS.m3u8,Europa
 EbS+,http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_or/EBSplus.m3u8,Europa
 OE24 TV,http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8,Oesterreich
