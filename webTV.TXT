@@ -28,6 +28,7 @@ KiKa,https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8,D
 Nickelodeon,http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8,D
 SkySportNewsHD,https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8,D
 ServusTV,https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8,D
+HealthTV,http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8,D
 Welt der Wunder,http://live.vidoo.de/live/weltderwunder/master.m3u8,D
 ORF 1,https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest_2.m3u8,AT
 ORF 2,https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_2.m3u8,AT
@@ -65,3 +66,5 @@ Event-Channel ABC 2,https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.
 Event-Channel ABC 3,https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8,EVENT
 Event-Channel ABC 4,https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8,EVENT
 Event-Channel NBC,https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8,EVENT
+NASA TV,http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8,SPECIAL
+Visit-X,http://stream.visit-x.tv/vxtv/live/playlist.m3u8,SPECIAL
