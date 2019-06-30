@@ -30,6 +30,8 @@ SkySportNewsHD,https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https
 ServusTV,https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8,D
 HealthTV,http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8,D
 Welt der Wunder,http://live.vidoo.de/live/weltderwunder/master.m3u8,D
+NRWision,http://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8,D
+Sylt1,http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8,D
 ORF 1,https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest_2.m3u8,AT
 ORF 2,https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_2.m3u8,AT
 ORF 3,https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest_2.m3u8,AT
@@ -61,10 +63,27 @@ VH1,http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8,Musi
 MusicChoice,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8,Music
 RetroTV,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8,Music
 Deutsches Music Fernsehen,https://tv.artcom-venture.de/dmf/tv_360.m3u8,Music
-Event-Channel ABC 1,https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8,EVENT
-Event-Channel ABC 2,https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8,EVENT
-Event-Channel ABC 3,https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8,EVENT
-Event-Channel ABC 4,https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8,EVENT
-Event-Channel NBC,https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8,EVENT
+ABC Event 1 HD,https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8,EVENT
+ABC Event 2 HD,https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8,EVENT
+ABC Event 3 HD,https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8,EVENT
+ABC Event 4 HD,https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8,EVENT
+NBC Event 1 HD,https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8,EVENT
+ZDF Event 1 HD,https://zdf0304-lh.akamaihd.net/i/de03_v1@392855/master.m3u8,EVENT
+ZDF Event 2 HD,https://zdf0304-lh.akamaihd.net/i/de04_v1@392856/master.m3u8,EVENT
+ZDF Event 3 HD,https://zdf0506-lh.akamaihd.net/i/de05_v1@392857/master.m3u8,EVENT
+ZDF Event 4 HD,https://zdf0506-lh.akamaihd.net/i/de06_v1@392858/master.m3u8,EVENT
+ZDF Event 5 HD,https://zdf0708-lh.akamaihd.net/i/de07_v1@392868/master.m3u8,EVENT
+ZDF Event 6 HD,https://zdf0708-lh.akamaihd.net/i/de08_v1@392869/master.m3u8,EVENT
+ZDF Event 7 HD,https://zdf1112-lh.akamaihd.net/i/de11_v1@392881/master.m3u8,EVENT
+ARD Event 1 HD,http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8,EVENT
+ARD Event 2 HD,https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8,EVENT
+WDR Event 1 HD,http://wdrevent1geo-lh.akamaihd.net/i/wdrevent1_geo@566649/master.m3u8,EVENT
+WDR Event 2 HD,https://wdrevent2-lh.akamaihd.net/i/wdrevent2_weltweit@566650/master.m3u8,EVENT
+WDR Event 3 HD,https://wdrevent3-lh.akamaihd.net/i/wdrevent3_weltweit@566651/master.m3u8,EVENT
+WDR Event 4 HD,https://wdrevent4-lh.akamaihd.net/i/wdrevent4_weltweit@566652/master.m3u8,EVENT
+WDR Event 5 HD,https://wdrevent5-lh.akamaihd.net/i/wdrevent5_weltweit@553673/master.m3u8,EVENT
+WDR Event 6 HD,http://wdrevent6-lh.akamaihd.net/i/wdrevent6_weltweit@553674/master.m3u8,EVENT
+
+
 NASA TV,http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8,SPECIAL
 Visit-X,http://stream.visit-x.tv/vxtv/live/playlist.m3u8,SPECIAL
