@@ -68,6 +68,7 @@ VH1,http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8,Musi
 MusicChoice,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8,Music
 RetroTV,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8,Music
 Deutsches Music Fernsehen,https://tv.artcom-venture.de/dmf/tv_360.m3u8,Music
+RedBull,http://i.mjh.nz/au/Darwin/tv.redbull.tv.m3u8,X
 ABC Event 1 HD,https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8,EVENT
 ABC Event 2 HD,https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8,EVENT
 ABC Event 3 HD,https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8,EVENT
