@@ -56,6 +56,7 @@ C-Span 2,https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8,NEWS
 C-Span 3,https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8,NEWS
 RTE News,http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8,NEWS
 CGTN News,https://live.cgtn.com/500/prog_index.m3u8,NEWS
+Kronehit,https://bitcdn-kronehit.bitmovin.com/v2/hls/bitcodin.m3u8,Music
 MTV Deutschland,http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8,Music
 MTV Nordic,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8,Music
 MTV Music24,http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8,Music
