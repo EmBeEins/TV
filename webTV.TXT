@@ -33,7 +33,11 @@ ORF Sport+,https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_2.m3u8,AT
 OE24,http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8,NEWS
 SKY News UK,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8,NEWS
 SKY News Arabia,https://stream.skynewsarabia.com/hls/sna.m3u8,NEWS
+ABC News USA,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8,NEWS
 ABC News Australia,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index.m3u8,NEWS
+CBS News,https://www.cbsnews.com/common/video/dai_prod.m3u8,NEWS
+NBC News,https://nbcnews2.akamaized.net/hls/live/723426/nbc-news0627154241-ua/master.m3u8,NEWS
+FOX News,http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8,NEWS
 CBN News,https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8,NEWS
 VOA,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8,NEWS
 Al Jazeera,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8,NEWS
@@ -41,6 +45,9 @@ TRT World,https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8,NEW
 CNN TR,https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8,NEWS
 France24,http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8,NEWS
 Weather Channel,https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8,NEWS
+C-Span 1,https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8,NEWS
+C-Span 2,https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8,NEWS
+C-Span 3,https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8,NEWS
 RTE News,http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8,NEWS
 CGTN News,https://live.cgtn.com/500/prog_index.m3u8,NEWS
 MTV Deutschland,http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8,Music
@@ -50,3 +57,8 @@ VH1,http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8,Musi
 MusicChoice,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8,Music
 RetroTV,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8,Music
 Deutsches Music Fernsehen,https://tv.artcom-venture.de/dmf/tv_360.m3u8,Music
+Event-Channel ABC 1,https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8,EVENT
+Event-Channel ABC 2,https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8,EVENT
+Event-Channel ABC 3,https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8,EVENT
+Event-Channel ABC 4,https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8,EVENT
+Event-Channel NBC,https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8,EVENT
