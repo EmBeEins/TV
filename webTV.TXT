@@ -39,6 +39,7 @@ ORF 2,https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_2.m3u8,AT
 ORF 3,https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest_2.m3u8,AT
 ORF Sport+,https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_2.m3u8,AT
 OE24,http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8,NEWS
+24 Horas,http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8,News
 SKY News UK,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8,NEWS
 SKY News Arabia,https://stream.skynewsarabia.com/hls/sna.m3u8,NEWS
 ABC News USA,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8,NEWS
