@@ -1,7 +1,52 @@
-ARD,https://mcdn.daserste.de/daserste/de/master_3744.m3u8,Vollprogramm
-ZDF,http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8?dw=0,Vollprogramm
-WDR,http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8,Vollprogramm
-NDR Hamburg,https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8,Vollprogramm
-RBB,https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8,Vollprogramm
-MDR Sachsen,http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8,Vollprogramm
-HR,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8,Vollprogramm
+ARD,https://mcdn.daserste.de/daserste/de/master.m3u8,D
+ZDF,https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8,D
+WDR (Geo),http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8,D
+3Sat,https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8,D
+arte,https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8,D
+ARD Alpha,https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8,D
+ONE,http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8,D
+ZDF_neo,https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8,D
+ZDF Info,http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8,D
+Phoenix,https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8,D
+SWR BW,https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8,D
+NDR HH,https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8,D
+BR,https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8,D
+MDR,http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8,D
+HR,http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8,D
+RBB,https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8,D
+Deutsche Welle,https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8,D
+Parlamentsfernsehen 1,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8,D
+Parlamentsfernsehen 1,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8,D
+Welt InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,D
+Welt,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,D
+SonnenklarTV,http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8,D
+eoTV,http://cdn-europe.smartcast.de:1935/eotvhd/eotvhd/playlist.m3u8,D
+KiKa,https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8,D
+Nickelodeon,http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8,D
+SkySportNewsHD,https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8,D
+ServusTV,https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8,D
+Welt der Wunder,http://live.vidoo.de/live/weltderwunder/master.m3u8,D
+ORF 1,https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest_2.m3u8,AT
+ORF 2,https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_2.m3u8,AT
+ORF 3,https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest_2.m3u8,AT
+ORF Sport+,https://orfs.cdn.ors.at/out/u/orfs/qxb/manifest_2.m3u8,AT
+OE24,http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8,NEWS
+SKY News UK,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8,NEWS
+SKY News Arabia,https://stream.skynewsarabia.com/hls/sna.m3u8,NEWS
+ABC News Australia,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index.m3u8,NEWS
+CBN News,https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8,NEWS
+VOA,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8,NEWS
+Al Jazeera,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8,NEWS
+TRT World,https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8,NEWS
+CNN TR,https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8,NEWS
+France24,http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8,NEWS
+Weather Channel,https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8,NEWS
+RTE News,http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8,NEWS
+CGTN News,https://live.cgtn.com/500/prog_index.m3u8,NEWS
+MTV Deutschland,http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8,Music
+MTV Nordic,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8,Music
+MTV Music24,http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8,Music
+VH1,http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8,Music
+MusicChoice,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8,Music
+RetroTV,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8,Music
+Deutsches Music Fernsehen,https://tv.artcom-venture.de/dmf/tv_360.m3u8,Music
