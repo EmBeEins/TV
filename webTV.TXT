@@ -1,7 +1,7 @@
 ARD,https://mcdn.daserste.de/daserste/de/master.m3u8,D
 ZDF,https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8,D
-WDR (Geo),http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8,D
-WDR (Weltweit),https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8?b=0-,D
+WDR,http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8,D
+WDR Weltweit,https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8?b=0-,D
 3Sat,https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8,D
 arte,https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8,D
 ARD Alpha,https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8,D
