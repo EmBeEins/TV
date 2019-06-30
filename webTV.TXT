@@ -11,6 +11,7 @@ ZDF Info,http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8,D
 Phoenix,https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8,D
 SWR,https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8,D
 NDR,https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8,D
+RB,https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8,D
 BR,https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8,D
 MDR,http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8,D
 HR,http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8,D
