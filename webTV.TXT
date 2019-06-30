@@ -17,6 +17,8 @@ RBB,https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8,D
 Deutsche Welle,https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8,D
 Parlamentsfernsehen 1,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8,D
 Parlamentsfernsehen 1,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8,D
+EbS,http://ott.ec.streamcloud.be/live/disk1/EBS/hls_or/EBS.m3u8,Europa
+EbS+,http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_or/EBSplus.m3u8,Europa
 Welt InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,D
 Welt,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,D
 SonnenklarTV,http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8,D
