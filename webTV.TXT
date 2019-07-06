@@ -97,5 +97,3 @@ NASA TV,http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/play
 Visit-X,http://stream.visit-x.tv/vxtv/live/playlist.m3u8,SPECIAL
 MagentaMusik 1,https://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/index.m3u8,D
 MagentaMusik 2,https://streaming-magenta-music-360.akamaized.net/hls/live/504582/magentamusik2/index.m3u8,D
-NasaTV,https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8,USA
-NasaTV 2,https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8,USA
