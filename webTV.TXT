@@ -10,7 +10,7 @@ Tagesschau24,http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 ZDF_neo,https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8,D
 ZDF Info,http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8,D
 Phoenix,https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8,D
-SWR,https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8,D
+SWR,https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8,D
 NDR,https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8,D
 RB,https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8,D
 BR,https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8,D
