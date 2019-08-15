@@ -22,6 +22,7 @@ Deutscher Bundestag 2,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo
 Welt InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,Nachrichten
 Welt,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,Nachrichten
 n-tv,http://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8,Nachrichten
+RTL West,https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8,Lokal
 EuroNews (via YouTube),https://www.youtube.com/embed/fVHvPe18dRA,Nachrichten
 OneFootball,https://tsfuba-lh.akamaihd.net/i/tsfuba11_1@514049/index_3000_av-p.m3u8,Sport
 Eurosport,http://eurosport-live-germany-free.akamaized.net/hls/ESP_DE_1/manifest.isml/manifest.m3u8,Sport
