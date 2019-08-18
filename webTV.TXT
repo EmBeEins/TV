@@ -95,7 +95,35 @@ WDR Event 3 HD,https://wdrevent3-lh.akamaihd.net/i/wdrevent3_weltweit@566651/mas
 WDR Event 4 HD,https://wdrevent4-lh.akamaihd.net/i/wdrevent4_weltweit@566652/master.m3u8,EVENT
 WDR Event 5 HD,https://wdrevent5-lh.akamaihd.net/i/wdrevent5_weltweit@553673/master.m3u8,EVENT
 WDR Event 6 HD,http://wdrevent6-lh.akamaihd.net/i/wdrevent6_weltweit@553674/master.m3u8,EVENT
-NASA TV,http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8,SPECIAL
+NDR Event 1 HD,http://ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8,EVENT
+NDR Event 2 HD,http://ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8,EVENT
+NDR Event 3 HD,http://ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8,EVENT
+NDR Event 4 HD,http://ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8,EVENT
+NDR Event 5 HD,http://ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8,EVENT
+NDR Event 6 HD,http://ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8,EVENT
+NDR Event 7 HD,http://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8,EVENT
+NDR Event 8 HD,http://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8,EVENT
+NDR Event 9 HD,http://ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8,EVENT
+BR Event 1 HD,http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/master.m3u8,EVENT
+BR Event 2 HD,http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/master.m3u8,EVENT
+BR Event 3 HD,http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/master.m3u8,EVENT
+BR Event 4 HD,http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/master.m3u8,EVENT
+BR Event 5 HD,http://brevent1hds-lh.akamaihd.net/i/br_event05isma@145760/master.m3u8,EVENT
+BR Event 6 HD,http://brevent1hds-lh.akamaihd.net/i/br_event06isma@145761/master.m3u8,EVENT
+BR Event 7 HD,http://brevent1hds-lh.akamaihd.net/i/br_event07isma@145762/master.m3u8,EVENT
+BR Event 8 HD,http://brevent1hds-lh.akamaihd.net/i/br_event08isma@145763/master.m3u8,EVENT
+HR Event 1 HD,http://hrevent-lh.akamaihd.net/i/hr_event1@309239/master.m3u8,EVENT
+HR Event 2 HD,http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8,EVENT
+RB Event 2 HD,http://rblive-lh.akamaihd.net/i/rb_event@447875/master.m3u8,EVENT
+MDR Event 1 HD,http://mdrevent1hls-lh.akamaihd.net/i/livetvmdrevent1_ww@513989/master.m3u8,EVENT
+MDR Event 2 HD,http://mdrevent2hls-lh.akamaihd.net/i/livetvmdrevent2_ww@513991/master.m3u8,EVENT
+MDR Event 3 HD,http://mdrevent2hls-lh.akamaihd.net/i/livetvmdrevent3_ww@513991/master.m3u8,EVENT
+MDR Event 4 HD,http://mdrevent4hls-lh.akamaihd.net/i/livetvmdrevent4_de@513995/master.m3u8,EVENT
+MDR Event 5 HD,http://mdrevent4hls-lh.akamaihd.net/i/livetvmdrevent5_de@513995/master.m3u8,EVENT
+RBB Event 1 HD,https://rbbevent01-hls.akamaized.net/hls/live/685984/rbbevent01/master.m3u8,EVENT
+RBB Event 2 HD,https://rbbevent02-hls.akamaized.net/hls/live/685985/rbbevent02/master.m3u8,EVENT
+RBB Event 3 HD,https://rbbevent03-hls.akamaized.net/hls/live/685986/rbbevent03/master.m3u8,EVENT
+RBB Event 4 HD,https://rbbevent04-hls.akamaized.net/hls/live/685987/rbbevent04/master.m3u8,EVENT
 Visit-X,http://stream.visit-x.tv/vxtv/live/playlist.m3u8,SPECIAL
 MagentaMusik 1,https://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/index.m3u8,D
 MagentaMusik 2,https://streaming-magenta-music-360.akamaized.net/hls/live/504582/magentamusik2/index.m3u8,D
