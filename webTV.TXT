@@ -27,7 +27,7 @@ Welt,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,D
 RTL West,https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8,D
 Sat1 Hamburg,https://insinceu.hs.llnwd.net/sat1/sat1hh/loop_hh/playlist.m3u8,D
 SonnenklarTV,http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8,D
-eoTV,http://cdn-europe.smartcast.de:1935/eotvhd/eotvhd/playlist.m3u8,D
+eoTV,http://cdn-europe.smartcast.de:1935/eotvhd/eotvhd/playlist.m3u8?scheme=m3u8?scheme=m3u8,D
 KiKa,https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8,D
 Nickelodeon,http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8,D
 SkySportNewsHD,https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8,D
