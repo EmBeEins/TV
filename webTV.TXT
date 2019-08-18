@@ -24,6 +24,7 @@ EbS,http://ott.ec.streamcloud.be/live/disk1/EBS/hls_or/EBS.m3u8,Europa
 EbS+,http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_or/EBSplus.m3u8,Europa
 Welt InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,D
 Welt,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,D
+RTL West,https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8,D
 SonnenklarTV,http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8,D
 eoTV,http://cdn-europe.smartcast.de:1935/eotvhd/eotvhd/playlist.m3u8,D
 KiKa,https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8,D
