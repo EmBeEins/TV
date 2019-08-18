@@ -80,6 +80,7 @@ ABC Event 2 HD,https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8,
 ABC Event 3 HD,https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8,EVENT
 ABC Event 4 HD,https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8,EVENT
 NBC Event 1 HD,https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8,EVENT
+Tagesschau24 Event 1 HD,http://tagesschau-lh.akamaihd.net/i/tagesschau_2@119232/master.m3u8,EVENT
 ZDF Event 1 HD,https://zdf0304-lh.akamaihd.net/i/de03_v1@392855/master.m3u8,EVENT
 ZDF Event 2 HD,https://zdf0304-lh.akamaihd.net/i/de04_v1@392856/master.m3u8,EVENT
 ZDF Event 3 HD,https://zdf0506-lh.akamaihd.net/i/de05_v1@392857/master.m3u8,EVENT
