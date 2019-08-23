@@ -129,3 +129,4 @@ RBB Event 4 HD,https://rbbevent04-hls.akamaized.net/hls/live/685987/rbbevent04/m
 Visit-X,http://stream.visit-x.tv/vxtv/live/playlist.m3u8,SPECIAL
 MagentaMusik 1,https://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/index.m3u8,D
 MagentaMusik 2,https://streaming-magenta-music-360.akamaized.net/hls/live/504582/magentamusik2/index.m3u8,D
+UD LasPalmas,https://5b38ce71f1f00.streamlock.net/8312/8312/playlist.m3u8,Es
