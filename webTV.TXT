@@ -52,7 +52,7 @@ NBC News,https://nbcnews2.akamaized.net/hls/live/723426/nbc-news0627154241-ua/ma
 FOX News,http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8,NEWS
 CBN News,https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8,NEWS
 VOA,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8,NEWS
-CNN USA,http://cnnlive.warnermediacdn.com/hls/live/2006689/live0/master.m3u8,N
+CNN USA,https://cnnlive.warnermediacdn.com/hls/live/2006689/live0/master.m3u8,N
 Bloomberg,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8,News
 Al Jazeera,http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8,NEWS
 TRT World,https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8,NEWS
