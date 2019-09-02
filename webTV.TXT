@@ -132,3 +132,4 @@ MagentaMusik 2,https://streaming-magenta-music-360.akamaized.net/hls/live/504582
 UD LasPalmas,https://5b38ce71f1f00.streamlock.net/8312/8312/playlist.m3u8,Es
 Real Madrid,https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8,Es
 Bild Live,https://bildlivehls-lh.akamaihd.net/i/Bildlive_1@107601/master.m3u8,D
+Puls24,https://psdlv003-a.akamaihd.net/d0fac670/t_003/puls4-at/cbcs-default.m3u8,AT
