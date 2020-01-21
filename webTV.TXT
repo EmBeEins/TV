@@ -21,7 +21,7 @@ Deutsche Welle,https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.
 Parlamentsfernsehen 1,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8,D
 Parlamentsfernsehen 2,https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8,D
 EbS,https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8,Europa
-EbS+,http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_or/EBSplus.m3u8,Europa
+EbS+, https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8,Europa
 Welt InfoScreen,https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/master.m3u8,D
 Welt,https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8,D
 RTL West,https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8,D
