@@ -136,3 +136,5 @@ Bild Live,https://bildlivehls-lh.akamaihd.net/i/Bildlive_1@107601/master.m3u8,D
 goTV,http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8,At
 Sky Event 1 HD,https://eventhlshttps-i.akamaihd.net/hls/live/511666/event01hls/index.m3u8,Event
 Sky Event 2 HD,https://eventhlshttps-i.akamaihd.net/hls/live/511667/event02hls/index.m3u8,Event
+RTL Event 1 HD,http://mgrtleventhls-lh.akamaihd.net/i/event2_1@542567/master.m3u8,Event
+RTL Event 2 HD,http://mgrtleventhls-lh.akamaihd.net/i/event3_1@542568/master.m3u8,Event
