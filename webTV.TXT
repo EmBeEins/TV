@@ -139,3 +139,4 @@ Sky Event 2 HD,https://eventhlshttps-i.akamaihd.net/hls/live/511667/event02hls/i
 RTL Event 1 HD,http://mgrtleventhls-lh.akamaihd.net/i/event2_1@542567/master.m3u8,Event
 RTL Event 2 HD,http://mgrtleventhls-lh.akamaihd.net/i/event3_1@542568/master.m3u8,Event
 KerrangTV,http://csm-e-cebxeurxaws101j8-7g4lrjcdqlrr.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http%3A%2F%2Fboxtv-origin-elb.cds1.yospace.com%2Fuploads%2Fkerrang%2F,music
+EarthTV,https://livecdn01-earthtv-com.freetls.fastly.net/stream25/cdnedge/smil:TWL-en.smil/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL2xpdmVjbG91ZC5lYXJ0aHR2LmNvbSIsImh0dHBzOi8vbGl2ZWNsb3VkLmVhcnRodHYuY29tIjp7ImFpZCI6IjcwMWI2OTI5LTUxOWEtNDI3NS05YTVjLTllNTU5ZDNhZDg4NCIsInNpZCI6IjBjMzU0NGFiLTRiYjEtNDE3ZS04ZWFjLTIyYTllZDdhNTUxZiIsInRpZCI6ImFiNDNjMzQ1LTk4MmMtNGEwYS1hZjEyLTBkYWQwNmUzMmY1ZiIsInR5cCI6InVyaSJ9LCJpYXQiOjE1NTA1NjQ3ODZ9.yPZT9XYIJq4YNlaR7eycjQeApd9IcH5Z4E0QT6dSjX8,Event
