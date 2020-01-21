@@ -138,3 +138,4 @@ Sky Event 1 HD,https://eventhlshttps-i.akamaihd.net/hls/live/511666/event01hls/i
 Sky Event 2 HD,https://eventhlshttps-i.akamaihd.net/hls/live/511667/event02hls/index.m3u8,Event
 RTL Event 1 HD,http://mgrtleventhls-lh.akamaihd.net/i/event2_1@542567/master.m3u8,Event
 RTL Event 2 HD,http://mgrtleventhls-lh.akamaihd.net/i/event3_1@542568/master.m3u8,Event
+KerrangTV,http://csm-e-cebxeurxaws101j8-7g4lrjcdqlrr.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http%3A%2F%2Fboxtv-origin-elb.cds1.yospace.com%2Fuploads%2Fkerrang%2F,music
