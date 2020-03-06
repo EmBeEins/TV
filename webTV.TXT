@@ -141,4 +141,4 @@ RTL Event 2 HD,http://mgrtleventhls-lh.akamaihd.net/i/event3_1@542568/master.m3u
 MCM,http://ott-cdn.ucom.am/s49/04.m3u8,Music
 StarTV,https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/livestreamhd15/playlist.m3u8,TV
 DRF1,https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/livestreamhd2/playlist.m3u8,TV
-SportA1,api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8,TV
+SportA1,https://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8,TV
