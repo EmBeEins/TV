@@ -7,9 +7,9 @@ arte,https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8,D
 ARD Alpha,https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8,D
 ONE,http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8,D
 Tagesschau24,http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8,D
-ZDF_neo,https://zdf-hls-02.akamaized.net/hls/live/2002461/de/veryhigh/master.m3u8,D
-ZDF Info,https://zdfhls17-i.akamaihd.net/hls/live/744750/de/veryhigh/master.m3u8,D
-Phoenix,https://zdfhls19-i.akamaihd.net/hls/live/744752/de/veryhigh/master.m3u8,D
+ZDF_neo,https://zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8,D
+ZDF Info,https://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8,D
+Phoenix,https://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8,D
 SWR,https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8,D
 NDR,https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8,D
 RB,https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8,D
