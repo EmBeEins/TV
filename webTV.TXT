@@ -1,5 +1,5 @@
 ARD,https://mcdn.daserste.de/daserste/de/master.m3u8,D
-ZDF,https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8,D
+ZDF,https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8,D
 WDR,http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8,D
 WDR Weltweit,https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8?b=0-,D
 3Sat,https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/veryhigh/master.m3u8,D
